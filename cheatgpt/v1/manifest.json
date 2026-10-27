@@ -1,0 +1,2027 @@
+{
+  "format": "raw LZMA2",
+  "dictionary_bytes": 1048576,
+  "version": 1,
+  "resources": [
+    {
+      "logical_name": "fonts/SoftRoundCJK.ttf",
+      "path": "cheatgpt/v1/fonts/SoftRoundCJK-9ae2e3002585.ttf.lzma2",
+      "bytes": 6168744,
+      "crc32": 3926058858,
+      "sha256": "9ae2e30025850ad09a55fa36a6356b0cb31e7dd8ae1b012c255c7838f5f69a75",
+      "packed_bytes": 3054961,
+      "packed_crc32": 216930294,
+      "packed_sha256": "ebbeaa8fd4411a27d6f3d25d8c1d862bfac99a1a31df4aeaee61a6fe582ef66c"
+    },
+    {
+      "logical_name": "hitsounds/Unknown.mp3",
+      "path": "cheatgpt/v1/hitsounds/Unknown-e705f0cdb3ee.mp3.lzma2",
+      "bytes": 6454,
+      "crc32": 3331644145,
+      "sha256": "e705f0cdb3ee8baa95c106b5e62b30f0ea7f71bde353816bd14d1994fd9aa699",
+      "packed_bytes": 5866,
+      "packed_crc32": 2655341842,
+      "packed_sha256": "9f3504367b6e715265a02a0fd42f20e42535140908089f07f169ffaeda5013a1"
+    },
+    {
+      "logical_name": "hitsounds/Arcade.mp3",
+      "path": "cheatgpt/v1/hitsounds/Arcade-d4f294e3389f.mp3.lzma2",
+      "bytes": 6403,
+      "crc32": 642820381,
+      "sha256": "d4f294e3389fd41de1536bc9bdfb8d601f2bbedcb36f076d1a471c8a0f9ae268",
+      "packed_bytes": 5816,
+      "packed_crc32": 3998374800,
+      "packed_sha256": "a655bfed26f23d6a3f8aba530a347141fd4b299033e12fa834cf29c935f81b90"
+    },
+    {
+      "logical_name": "hitsounds/Cartoon.mp3",
+      "path": "cheatgpt/v1/hitsounds/Cartoon-f1d2e5395dbd.mp3.lzma2",
+      "bytes": 6408,
+      "crc32": 2317729920,
+      "sha256": "f1d2e5395dbd6683ee0c182dbf4001a487910520d00f597802afa1002e78936e",
+      "packed_bytes": 6110,
+      "packed_crc32": 4017488471,
+      "packed_sha256": "e2e78888e6bb811a2aebad94acef786257d0400c658a436e0ca094d9b8eb1fe0"
+    },
+    {
+      "logical_name": "icons/Legit.png",
+      "path": "cheatgpt/v1/icons/Legit-32c945c3f377.png.lzma2",
+      "bytes": 23169,
+      "crc32": 4241053929,
+      "sha256": "32c945c3f377fb9c049683eb072bb46403babb0b003527f8598b74e8df163726",
+      "packed_bytes": 20695,
+      "packed_crc32": 3963655523,
+      "packed_sha256": "ee09732c798c67ca33e1b8b8e007454967fc035c808bbae8c2435c980a6f4458"
+    },
+    {
+      "logical_name": "icons/Rage.png",
+      "path": "cheatgpt/v1/icons/Rage-4ae9e513c04d.png.lzma2",
+      "bytes": 26036,
+      "crc32": 864785719,
+      "sha256": "4ae9e513c04d027b23df5687a75e9ebaa4ffdae2217837f5ee45dbc4df0d114f",
+      "packed_bytes": 23418,
+      "packed_crc32": 4265677224,
+      "packed_sha256": "e3b6299c04068d01f78097eb0e01808f3ae98d4ef37c81e39046c515028e739e"
+    },
+    {
+      "logical_name": "icons/Visual.png",
+      "path": "cheatgpt/v1/icons/Visual-350604583cb7.png.lzma2",
+      "bytes": 27224,
+      "crc32": 4193605592,
+      "sha256": "350604583cb7584c1fe932d2e9548773c42700c3477a74dc46d8feb128e0da99",
+      "packed_bytes": 24471,
+      "packed_crc32": 4201635866,
+      "packed_sha256": "e845d4b9b89a8f04fcf3f8943da3aa1ae968f8acbb3baa453914fbabc903cc69"
+    },
+    {
+      "logical_name": "icons/LocalPlayer.png",
+      "path": "cheatgpt/v1/icons/LocalPlayer-a63d5f5813f0.png.lzma2",
+      "bytes": 21489,
+      "crc32": 1481524962,
+      "sha256": "a63d5f5813f0289adf9c268e738cc95ebb2955b038ad68d72b5966bc12f9d484",
+      "packed_bytes": 18799,
+      "packed_crc32": 293540338,
+      "packed_sha256": "cfa8ba088ed9b40dbc45dc8f48deb91811a63f37fdadcbb2d3aeabcc4e2dda9a"
+    },
+    {
+      "logical_name": "icons/PlayersList.png",
+      "path": "cheatgpt/v1/icons/PlayersList-af4aac3db9a9.png.lzma2",
+      "bytes": 10246,
+      "crc32": 1911626165,
+      "sha256": "af4aac3db9a90761449f3c98acf182bd07724f7a0227457e2ab96ef0c93e8e5a",
+      "packed_bytes": 7864,
+      "packed_crc32": 3213572202,
+      "packed_sha256": "e74cf089aa970564598eafe4aa33cfe58da72325ee901ad1e4e2193802cd06a8"
+    },
+    {
+      "logical_name": "icons/Setting.png",
+      "path": "cheatgpt/v1/icons/Setting-162fb6bcd306.png.lzma2",
+      "bytes": 31352,
+      "crc32": 567032237,
+      "sha256": "162fb6bcd3069b9eeed00676397f26382b29f09e3797811fb4b60fea39c5acdc",
+      "packed_bytes": 28880,
+      "packed_crc32": 3601423837,
+      "packed_sha256": "6e0a9518f4b559277a99d1a29fb35918c179145349b1bf937b6bab0507990206"
+    },
+    {
+      "logical_name": "icons/bug.png",
+      "path": "cheatgpt/v1/icons/bug-dc974a1e8ca7.png.lzma2",
+      "bytes": 19728,
+      "crc32": 3027704835,
+      "sha256": "dc974a1e8ca7cd8d32a4a27f318ec5f818f99e5be5367b041d212ece1e94595d",
+      "packed_bytes": 17384,
+      "packed_crc32": 640412177,
+      "packed_sha256": "a97c07c2c0ec1c471d449e52e381433d2cfd1764357e0c2d61a123300f333f43"
+    },
+    {
+      "logical_name": "icons/Glass.png",
+      "path": "cheatgpt/v1/icons/Glass-c7bb197abe65.png.lzma2",
+      "bytes": 9613,
+      "crc32": 690334327,
+      "sha256": "c7bb197abe652aabcc39f4c4f7df3ece2a29c95bce66d4e87c2b957f9fe61094",
+      "packed_bytes": 8995,
+      "packed_crc32": 3591146141,
+      "packed_sha256": "f55caf4813f8fcd60509b432cb0eb1a636fed3604ae5b46c2c3eac8fa08d917d"
+    },
+    {
+      "logical_name": "hitsounds/Glass-fallback.wav",
+      "path": "cheatgpt/v1/hitsounds/Glass-fallback-920e831189be.wav.lzma2",
+      "bytes": 49656,
+      "crc32": 755762989,
+      "sha256": "920e831189be9599e569aeefe1659172e50ba08b15be60bffb93814d242c9903",
+      "packed_bytes": 20822,
+      "packed_crc32": 3988452028,
+      "packed_sha256": "21502ff59929b0fba1e1d172641b2084030a8f0ba9532a847d2d39371c2d2655"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k.mp3",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-b1f6ee4c4cee.mp3.lzma2",
+      "bytes": 55316,
+      "crc32": 1927749926,
+      "sha256": "b1f6ee4c4cee89fdfbc80856d8342aa30cbdf7ad7d01cf44f6027ad9fc5a073e",
+      "packed_bytes": 54198,
+      "packed_crc32": 2239130224,
+      "packed_sha256": "9664049818b47818ef3944c1f613a2d1d4cfa4ec1445eb36b56514691875d2d9"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p1.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p1-72cd62b60530.png.lzma2",
+      "bytes": 38991,
+      "crc32": 3525758684,
+      "sha256": "72cd62b605308b4b3b66dcdcec4881ab230c18393ff4b522e6970743d808b049",
+      "packed_bytes": 35323,
+      "packed_crc32": 383345150,
+      "packed_sha256": "13bd5560f514709430d6a1f341718f7e3bb301de0ad36bc516a82c6ee2369cad"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p2.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p2-983ae1dff99c.png.lzma2",
+      "bytes": 150418,
+      "crc32": 3528862537,
+      "sha256": "983ae1dff99ce59d797afaca5a11b92e71b49bbd3ddd8f421255b152c9648cae",
+      "packed_bytes": 147362,
+      "packed_crc32": 484166176,
+      "packed_sha256": "d5fc89025fd85c46964088ad9a1913de891c28ebffb3bec632c76f25ba5ec942"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p3.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p3-748768ab3c8b.png.lzma2",
+      "bytes": 139402,
+      "crc32": 2166192401,
+      "sha256": "748768ab3c8bca7071d6c2a83714872025201c71edbd6f3f306834254114febf",
+      "packed_bytes": 135683,
+      "packed_crc32": 1699601266,
+      "packed_sha256": "b3540450f613d2e8a558117c3418a2184f6a6a7865b86123cb96e062e2428abb"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p4.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p4-f70a0408c07f.png.lzma2",
+      "bytes": 170714,
+      "crc32": 187837435,
+      "sha256": "f70a0408c07f6e887a04fbcefefd55212bafa116a36c0053e8f2b24d1e407110",
+      "packed_bytes": 167676,
+      "packed_crc32": 3793676927,
+      "packed_sha256": "abddfbf48b3763756929d4fefffce89d54d5aa2d54ac2441f99a9b0bce4a599d"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p5.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p5-f670616d4f1d.png.lzma2",
+      "bytes": 117830,
+      "crc32": 2260227590,
+      "sha256": "f670616d4f1dfedceeee6d731acb4edc5c71b5a4ebd497e6f9756c6fdcc74aa6",
+      "packed_bytes": 113726,
+      "packed_crc32": 215942618,
+      "packed_sha256": "5de60cdc1d4a7a80290598bd255f79ca601fb2154f17810ce4f5f1a9211ebecd"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p6.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p6-b512f6206db7.png.lzma2",
+      "bytes": 103375,
+      "crc32": 1848061812,
+      "sha256": "b512f6206db789014992ba4c7f7280f6b919e253ebdeb7160f9f62ee8c48e05c",
+      "packed_bytes": 98183,
+      "packed_crc32": 3470521095,
+      "packed_sha256": "afccc9bb654c878b71b2c134aa6bb5a4a2d109c26583fd94acb9d8c08024f109"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p7.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p7-f7877a059e18.png.lzma2",
+      "bytes": 104596,
+      "crc32": 3317695210,
+      "sha256": "f7877a059e18a64f308d40119182e9e0bd9dbe30f5d37a30b7f9c674a4fd4644",
+      "packed_bytes": 99557,
+      "packed_crc32": 2365060514,
+      "packed_sha256": "c7df6391aecf81ba4e564267ce7df6604c6ac31631244f435a0c1f0ae8a530aa"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p8.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p8-9bd45b70064b.png.lzma2",
+      "bytes": 95764,
+      "crc32": 1013174834,
+      "sha256": "9bd45b70064bca98838ef2d1f4fa87990a8d2d4e1601f11772b3fc201f66c450",
+      "packed_bytes": 90435,
+      "packed_crc32": 354639952,
+      "packed_sha256": "b81925b4073f3deae339bdbd39a8a38377d3e491cf7ac38a3ee89a1c636cb21e"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p9.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p9-ad83f1df2bdb.png.lzma2",
+      "bytes": 96537,
+      "crc32": 2040739896,
+      "sha256": "ad83f1df2bdb54d05e4167da1cccbfd83b1178c4bbb4ff1fc81e56c2688bcd91",
+      "packed_bytes": 91355,
+      "packed_crc32": 446998858,
+      "packed_sha256": "a671db0b1d58600f581b21e181603396e11924e125ab3115141001b3cfd89c09"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p10.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p10-19e5d4250713.png.lzma2",
+      "bytes": 95749,
+      "crc32": 1485704954,
+      "sha256": "19e5d4250713ac48ec99e60a60a23e2994667723beabb6a2df07090759513a27",
+      "packed_bytes": 90441,
+      "packed_crc32": 3767793192,
+      "packed_sha256": "0266194e2c89ca9176147dbe621aa49921fa78bd669a4147b0297a24eb03f95e"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p11.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p11-19e5d4250713.png.lzma2",
+      "bytes": 95749,
+      "crc32": 1485704954,
+      "sha256": "19e5d4250713ac48ec99e60a60a23e2994667723beabb6a2df07090759513a27",
+      "packed_bytes": 90441,
+      "packed_crc32": 3767793192,
+      "packed_sha256": "0266194e2c89ca9176147dbe621aa49921fa78bd669a4147b0297a24eb03f95e"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p12.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p12-19e5d4250713.png.lzma2",
+      "bytes": 95749,
+      "crc32": 1485704954,
+      "sha256": "19e5d4250713ac48ec99e60a60a23e2994667723beabb6a2df07090759513a27",
+      "packed_bytes": 90441,
+      "packed_crc32": 3767793192,
+      "packed_sha256": "0266194e2c89ca9176147dbe621aa49921fa78bd669a4147b0297a24eb03f95e"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p13.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p13-8acc0b908d44.png.lzma2",
+      "bytes": 95879,
+      "crc32": 1184574788,
+      "sha256": "8acc0b908d448b9f63b4ad367703888d3cf9577a0c3c1ad291cf6628d5f2c924",
+      "packed_bytes": 90586,
+      "packed_crc32": 1904651924,
+      "packed_sha256": "18ab713e352586ce48945ae68f0d49cc36f5994739460000b9c0e61ca4bb40ff"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p14.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p14-b8b045ea3114.png.lzma2",
+      "bytes": 111730,
+      "crc32": 1951770619,
+      "sha256": "b8b045ea31144ae40b7c20c40242d0ed368d16dd8db3f8eef3fe7cfda4b3788f",
+      "packed_bytes": 107247,
+      "packed_crc32": 461260410,
+      "packed_sha256": "0cdadc97b924067ce63fe2090d2cdc34dc8d6092e59b16aa9019e845242b7949"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p15.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p15-9f62897215ac.png.lzma2",
+      "bytes": 61247,
+      "crc32": 1719011942,
+      "sha256": "9f62897215ac1a106275e2e296823bc391608c5055ded00f87f08117a7ffb894",
+      "packed_bytes": 57451,
+      "packed_crc32": 3003915422,
+      "packed_sha256": "94b940dabd6d29b1c1b2cd2eccf4dda41b060ac494b364db2998b4ca77f4ad43"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p16.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p16-993775417909.png.lzma2",
+      "bytes": 28688,
+      "crc32": 986685640,
+      "sha256": "9937754179092e5162fd5f972052b27611f7f2a365758c7a35d6534beeea40d8",
+      "packed_bytes": 25300,
+      "packed_crc32": 4170436143,
+      "packed_sha256": "260cb36f2a1acd6645c81aa1d8ba49e5f117f1a21a4b5d9328889c289210c0a7"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_1k-p17.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_1k-p17-97ebcfff0e2a.png.lzma2",
+      "bytes": 3129,
+      "crc32": 857523957,
+      "sha256": "97ebcfff0e2a217cc76c3933ef5b093be196d21bbae616ddf974f9471f8cf4f4",
+      "packed_bytes": 108,
+      "packed_crc32": 2641691590,
+      "packed_sha256": "8611a47bb75c850c253b4d786fd2322c7dd701d83f25ecdb68cc04f6da2a83ef"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k.mp3",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-0f6935eb7fd2.mp3.lzma2",
+      "bytes": 56623,
+      "crc32": 2172469546,
+      "sha256": "0f6935eb7fd217e6bb807387bdf3119280f81244c41f9ffa8089d9b50da2a741",
+      "packed_bytes": 55829,
+      "packed_crc32": 3940327811,
+      "packed_sha256": "03172b51f8990d985326b918a501fc933e55e7fa763c765b3e0d4a496ea7b8ee"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p1.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p1-5cfa7cd090cb.png.lzma2",
+      "bytes": 13290,
+      "crc32": 706864316,
+      "sha256": "5cfa7cd090cb4bd3361ab6d9dc0d5978c80d297e3bb7b7193e3c967246ee365f",
+      "packed_bytes": 10408,
+      "packed_crc32": 1665562399,
+      "packed_sha256": "fd5ef5a624c4caf73d612bccd1862d95c6f9d4e7766da9970947fbdee37cbc7e"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p2.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p2-b2d506c299df.png.lzma2",
+      "bytes": 101128,
+      "crc32": 3720861786,
+      "sha256": "b2d506c299df31a7d78dd13d592afbd2ef76613b588082be57297854b15bb635",
+      "packed_bytes": 97600,
+      "packed_crc32": 4249913395,
+      "packed_sha256": "b6737ef95833083a5e7ab47f753d18b9da8eaa3c9a2e7347d4d67e6ad360cffe"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p3.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p3-6030b53ae808.png.lzma2",
+      "bytes": 174381,
+      "crc32": 77441793,
+      "sha256": "6030b53ae808cfd70b02688557f3d41ca1904a52116e5e5013bd85258d45f5c7",
+      "packed_bytes": 171229,
+      "packed_crc32": 497954610,
+      "packed_sha256": "16be0b44a81d18a4923caadcbbeb67984a0a01511e64d895b2a2de98464d56e2"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p4.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p4-04cdef5f925d.png.lzma2",
+      "bytes": 180668,
+      "crc32": 1936357487,
+      "sha256": "04cdef5f925d06afb1977ad03e911c4e8e1535c7c685d99815276910cdad28b1",
+      "packed_bytes": 177850,
+      "packed_crc32": 3542186754,
+      "packed_sha256": "36d64b4b3357ca58db7aaa6017b12c1809e5ec712b5e12e0706478a235f352b1"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p5.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p5-28add4ea49d0.png.lzma2",
+      "bytes": 217906,
+      "crc32": 3493711759,
+      "sha256": "28add4ea49d043ab420c1bdf48d87cfab2694d2e4ddf2aa46f7ead55521099ea",
+      "packed_bytes": 215685,
+      "packed_crc32": 183648371,
+      "packed_sha256": "0176f9b730aa1a03da905d08b74399f1e3c9e950c59db73d695b36c39fb01e41"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p6.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p6-3d84df2a3adf.png.lzma2",
+      "bytes": 160418,
+      "crc32": 3022632892,
+      "sha256": "3d84df2a3adfecbab268b3b96783e44e51a4acd7494e9df849f049c3f7d435f1",
+      "packed_bytes": 157743,
+      "packed_crc32": 1539701001,
+      "packed_sha256": "69668bb957019ac47eff5647af0c6d4e7638d7a23973ee0e9c20517dd31d9601"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p7.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p7-36008b6baf64.png.lzma2",
+      "bytes": 173193,
+      "crc32": 1850276460,
+      "sha256": "36008b6baf647295660db9f6630978e9d435f6924027c90656a8416ee2c0ba14",
+      "packed_bytes": 170414,
+      "packed_crc32": 131912077,
+      "packed_sha256": "5cc8f72893deef028da2aab040064f4017ef3147015de4ba315a10d01013dc4f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p8.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p8-17a6e627eca8.png.lzma2",
+      "bytes": 151783,
+      "crc32": 2337456979,
+      "sha256": "17a6e627eca89a882bd7dff71a3c8e70c6a5d38a7d162881e31d96952f00fd9e",
+      "packed_bytes": 148338,
+      "packed_crc32": 3090204566,
+      "packed_sha256": "863253317562b64f78d7cf3c45f69de1790d68180a63f59e35f9a37bb1cd272d"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p9.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p9-b06570d29a92.png.lzma2",
+      "bytes": 120247,
+      "crc32": 3237158122,
+      "sha256": "b06570d29a9277a858811dd091364d1ffaf2718cdf456ec6e4036c2417fe28fb",
+      "packed_bytes": 116331,
+      "packed_crc32": 1858559953,
+      "packed_sha256": "69cdcb7bfaf5cf0f5e9f81808e3203b48acca7245121d90b24de8b6954a617bc"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p10.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p10-2bcb219cfe9a.png.lzma2",
+      "bytes": 115725,
+      "crc32": 1366080312,
+      "sha256": "2bcb219cfe9a2beeb491091108824c0e4b22911b7e4cb87802a77682227c5114",
+      "packed_bytes": 110534,
+      "packed_crc32": 2406101561,
+      "packed_sha256": "0adbdb4b988f2a7dd75b82a5ebddaf692bd588f25146cc40e4dd913cc279763c"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p11.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p11-3b3fb8ea3f11.png.lzma2",
+      "bytes": 105038,
+      "crc32": 1853450064,
+      "sha256": "3b3fb8ea3f11a3986da23a8742403c60d27efdaab93a4739a3ac3bae7d8c1081",
+      "packed_bytes": 100255,
+      "packed_crc32": 3692829437,
+      "packed_sha256": "d2e2c88a01a30a0d022f8c3f3bec496371e5ad1c7c39eaaeecccbd4df5a6db18"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p12.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p12-2bb26642c57d.png.lzma2",
+      "bytes": 106000,
+      "crc32": 4015287050,
+      "sha256": "2bb26642c57dfbf73b540429390cd0967f52b294f9f4d9465d0cf866c407ca93",
+      "packed_bytes": 101027,
+      "packed_crc32": 819499784,
+      "packed_sha256": "a3ac0817b0a775651384f99e617ddd98b41a4e5c5b3f820f369e6f878600d0ee"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p13.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p13-197db6246b5c.png.lzma2",
+      "bytes": 100441,
+      "crc32": 2698633536,
+      "sha256": "197db6246b5c464e1f0f811ddd896bdbb6686edb268e4d3fc29b42c9eb3bbb83",
+      "packed_bytes": 95411,
+      "packed_crc32": 2110503592,
+      "packed_sha256": "000337d1cc77b06df229bfb28636e89cdce12de98375eb76a2179afeb878a44d"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p14.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p14-c6a744c50f26.png.lzma2",
+      "bytes": 100650,
+      "crc32": 2253353520,
+      "sha256": "c6a744c50f26a272a4be80eb50199995c703e8a2ceeb36064915816545b042bb",
+      "packed_bytes": 95644,
+      "packed_crc32": 3931912331,
+      "packed_sha256": "e8909f4e21ca71b28726da88d87cb0abb9b4bffb320b944954457644cd7c5f2e"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p15.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p15-4deff0176726.png.lzma2",
+      "bytes": 87102,
+      "crc32": 2748636489,
+      "sha256": "4deff01767268f75bf2a3e5b2d8e0412300ebf9ecfcb1ace4d8d5408b2f26968",
+      "packed_bytes": 82151,
+      "packed_crc32": 2213621951,
+      "packed_sha256": "1e0f9ce89ccfca424b4d588cbf5621fe2ebc67de2780220bf3524910229ce17a"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p16.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p16-32df2a75c351.png.lzma2",
+      "bytes": 61447,
+      "crc32": 3398086816,
+      "sha256": "32df2a75c351990c803d40d00ef005c56a1a681ffff71dd8428fa04c1e3c96a1",
+      "packed_bytes": 57728,
+      "packed_crc32": 2682212505,
+      "packed_sha256": "9e63cc319514c97437e60d2933d8f27fe2fa1ea1b3d2022eb3228087c880b596"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p17.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p17-08c88793f90d.png.lzma2",
+      "bytes": 8739,
+      "crc32": 2886793149,
+      "sha256": "08c88793f90dcf806519847e4808228f1045517bd322da9bc871fe018fad9723",
+      "packed_bytes": 5988,
+      "packed_crc32": 1170849422,
+      "packed_sha256": "8a2f3567aa2b9e022f43fb0b361f52ede4f713bcb8ac43d3be2ac04813f461b9"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_2k-p18.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_2k-p18-97ebcfff0e2a.png.lzma2",
+      "bytes": 3129,
+      "crc32": 857523957,
+      "sha256": "97ebcfff0e2a217cc76c3933ef5b093be196d21bbae616ddf974f9471f8cf4f4",
+      "packed_bytes": 108,
+      "packed_crc32": 2641691590,
+      "packed_sha256": "8611a47bb75c850c253b4d786fd2322c7dd701d83f25ecdb68cc04f6da2a83ef"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k.mp3",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-d699901c6d60.mp3.lzma2",
+      "bytes": 56623,
+      "crc32": 1949521407,
+      "sha256": "d699901c6d60868913c62c0885e1b50efd6e989f7a49ae55f9bd05a1ca0b4b21",
+      "packed_bytes": 55893,
+      "packed_crc32": 1478929584,
+      "packed_sha256": "965f039390febddeb5fb5e139fbeac32c9f6fbe1e7ee936c5d83555180383225"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p1.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p1-97ebcfff0e2a.png.lzma2",
+      "bytes": 3129,
+      "crc32": 857523957,
+      "sha256": "97ebcfff0e2a217cc76c3933ef5b093be196d21bbae616ddf974f9471f8cf4f4",
+      "packed_bytes": 108,
+      "packed_crc32": 2641691590,
+      "packed_sha256": "8611a47bb75c850c253b4d786fd2322c7dd701d83f25ecdb68cc04f6da2a83ef"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p2.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p2-3ea0cb1b80aa.png.lzma2",
+      "bytes": 38767,
+      "crc32": 3742520518,
+      "sha256": "3ea0cb1b80aa310ed16dfb920e27aedec952b6ad9e66c331852d9e4538b0bedc",
+      "packed_bytes": 35104,
+      "packed_crc32": 2665020776,
+      "packed_sha256": "78a6171aba733a89ae5bfc1b8efe279796a1fa76ef55b366f8d89bf7e0014d0b"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p3.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p3-c87fb89f9d96.png.lzma2",
+      "bytes": 163292,
+      "crc32": 739987554,
+      "sha256": "c87fb89f9d96e87475743439827be7dc584aa9a7a896a44095f612e7ee865b18",
+      "packed_bytes": 160376,
+      "packed_crc32": 3659676890,
+      "packed_sha256": "3b1b65ea8ae1914b3ac49a383aac2dad958047e34f523aa807fe22d06290d855"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p4.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p4-e29e75e02002.png.lzma2",
+      "bytes": 201355,
+      "crc32": 2708505682,
+      "sha256": "e29e75e020025ee56abde3e8b9ee05354db0f1a341608757eb3b5f299fa4cfd8",
+      "packed_bytes": 198221,
+      "packed_crc32": 1528131056,
+      "packed_sha256": "f3bd9ee20a1a89010c52aca227c61e605ece8ab554e603d7fc1c0e873277f95d"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p5.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p5-bfe5d9deb3cf.png.lzma2",
+      "bytes": 221202,
+      "crc32": 4256517473,
+      "sha256": "bfe5d9deb3cf8a0f43c325787cc2b488c456cd51f155bbf45d14eb73711de0dd",
+      "packed_bytes": 218888,
+      "packed_crc32": 1881061591,
+      "packed_sha256": "d13b50a792416bb5df2f1ac60f73fd4b524ebd0472e7101e07eca7c7d1bbd82f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p6.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p6-1094382ae997.png.lzma2",
+      "bytes": 166816,
+      "crc32": 1590715643,
+      "sha256": "1094382ae997ca3329d7f982a24dc8bffa440d03300ae2d33f2be5011478031d",
+      "packed_bytes": 163702,
+      "packed_crc32": 3223217602,
+      "packed_sha256": "d7e2ded490b38133f13423af1e00211e63b5e9fc6558ba3be56fa628087a21c2"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p7.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p7-7343810f8f45.png.lzma2",
+      "bytes": 182468,
+      "crc32": 1652137034,
+      "sha256": "7343810f8f45d47e669750f1013a5ee178ca86ef2efa23f862ce19a49d42b81a",
+      "packed_bytes": 179430,
+      "packed_crc32": 285739313,
+      "packed_sha256": "76c37218aa3927db8dca67757f9cc12d9fcb32466c5a83bd007c678a3c49782e"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p8.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p8-87052ba23275.png.lzma2",
+      "bytes": 168964,
+      "crc32": 2456603866,
+      "sha256": "87052ba2327507475b6958a8235408e802c8eb5d51fbe2c89b92b104f557de11",
+      "packed_bytes": 166283,
+      "packed_crc32": 53828975,
+      "packed_sha256": "beabfd8acbf9af932151899062022a9752b3a89f5eb07fc04124855833d828a9"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p9.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p9-af790d5bc124.png.lzma2",
+      "bytes": 142589,
+      "crc32": 2834086698,
+      "sha256": "af790d5bc124764c5983b47a8215763fbaa61e44ca438f2f5295c7e9a9eecd07",
+      "packed_bytes": 139003,
+      "packed_crc32": 1482020680,
+      "packed_sha256": "889f32410bc762c609cfb3e9f09228e15218fd3f2fa77e693bb305095b9ad90f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p10.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p10-cfc72e69ca45.png.lzma2",
+      "bytes": 126389,
+      "crc32": 1834712535,
+      "sha256": "cfc72e69ca45529da0ce05e0a20339abf112838d052d55b5fd1402b8c16f02df",
+      "packed_bytes": 122639,
+      "packed_crc32": 374667636,
+      "packed_sha256": "1b0ed359e6ac0695b60ad6c79cb9825607eb73a215e1189f20c90d4468d80c26"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p11.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p11-b8230e21bc9f.png.lzma2",
+      "bytes": 118834,
+      "crc32": 5189494,
+      "sha256": "b8230e21bc9fe0f791042023b0673441f3559c7b04b5d0b1b4dd23737e23fa2f",
+      "packed_bytes": 114807,
+      "packed_crc32": 1242397201,
+      "packed_sha256": "1e94706163eab7a90792c35eccbb1554527b11e1a4ffda284a9b04ac6fbce702"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p12.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p12-a84c4a379065.png.lzma2",
+      "bytes": 147891,
+      "crc32": 1759831116,
+      "sha256": "a84c4a37906525346276bad060aaadcc548c8f6879291f22bc4aa1ca823c4663",
+      "packed_bytes": 144048,
+      "packed_crc32": 561739266,
+      "packed_sha256": "e2339514b656dcadf25c27da6daf3e8f5d08138757377266396795468b95a88c"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p13.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p13-e7bdfcdab81d.png.lzma2",
+      "bytes": 104037,
+      "crc32": 2427729090,
+      "sha256": "e7bdfcdab81deb6e6eafec21d551ab00b3cc416fed784d84d08d4ad04924538e",
+      "packed_bytes": 98717,
+      "packed_crc32": 530980261,
+      "packed_sha256": "9d773c5d13445fb7dc7ccf1a899ab800f79b7fa5c98ac13e4f287ae4ca26e664"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p14.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p14-619a454aba27.png.lzma2",
+      "bytes": 102907,
+      "crc32": 2791227899,
+      "sha256": "619a454aba27f075c1e9ea58a563cb75adf394d08c49bdcae98cddcb76d96f1b",
+      "packed_bytes": 97478,
+      "packed_crc32": 1845988180,
+      "packed_sha256": "c0a76d4a86801b3282bbd4940807813ca18946afc8089224d54f309e554a7144"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p15.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p15-819149d78d17.png.lzma2",
+      "bytes": 102504,
+      "crc32": 1669557717,
+      "sha256": "819149d78d17cd2e4644a65d7773fcb676498a0d15077ccd109622b1b268aeb0",
+      "packed_bytes": 96980,
+      "packed_crc32": 2554362136,
+      "packed_sha256": "3ed396a41513c8951c31c211eaaef80e4668db62c6129dbdbe61e57e316d9cb6"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p16.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p16-cafe89631b01.png.lzma2",
+      "bytes": 86849,
+      "crc32": 2536750794,
+      "sha256": "cafe89631b0197dff0f9aed930d01668762795415cb719e2f39c87438a23faa7",
+      "packed_bytes": 83579,
+      "packed_crc32": 1870065124,
+      "packed_sha256": "3c667c138aab9eaa61fd39633cca97a2cb112a4e20d122261f825a9fb72a3d32"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p17.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p17-0bbac1f492dc.png.lzma2",
+      "bytes": 37780,
+      "crc32": 187831388,
+      "sha256": "0bbac1f492dc1a573c80c4889128ebc8d86fc676e251831d8cdaa69970ff305c",
+      "packed_bytes": 34784,
+      "packed_crc32": 3841019366,
+      "packed_sha256": "7e0756a1c0bc67144147cb87155b7f60715ad47ab568fe31b1e015b88568d1b7"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_3k-p18.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_3k-p18-97ebcfff0e2a.png.lzma2",
+      "bytes": 3129,
+      "crc32": 857523957,
+      "sha256": "97ebcfff0e2a217cc76c3933ef5b093be196d21bbae616ddf974f9471f8cf4f4",
+      "packed_bytes": 108,
+      "packed_crc32": 2641691590,
+      "packed_sha256": "8611a47bb75c850c253b4d786fd2322c7dd701d83f25ecdb68cc04f6da2a83ef"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k.mp3",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-bda3e364fc20.mp3.lzma2",
+      "bytes": 57877,
+      "crc32": 4131201999,
+      "sha256": "bda3e364fc20d939d6a1282d4ee430bd40c30e7cf1de69754015cdf75e4eaf3e",
+      "packed_bytes": 57103,
+      "packed_crc32": 2986608980,
+      "packed_sha256": "848b4c0848bed4736e1fb2fd77306cf5ee90e80a26f8b55f021d5fb921384cc6"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p1.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p1-97ebcfff0e2a.png.lzma2",
+      "bytes": 3129,
+      "crc32": 857523957,
+      "sha256": "97ebcfff0e2a217cc76c3933ef5b093be196d21bbae616ddf974f9471f8cf4f4",
+      "packed_bytes": 108,
+      "packed_crc32": 2641691590,
+      "packed_sha256": "8611a47bb75c850c253b4d786fd2322c7dd701d83f25ecdb68cc04f6da2a83ef"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p2.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p2-821614061d50.png.lzma2",
+      "bytes": 24800,
+      "crc32": 1427096423,
+      "sha256": "821614061d50bc1803e1fc26850365ea8c025bfe617de405dfc81d3e7321a250",
+      "packed_bytes": 20972,
+      "packed_crc32": 3908546032,
+      "packed_sha256": "bb82eeae90f56d867d3496db48778ee611a60c02b3249054ca65f97dec087a7e"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p3.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p3-ec7bdd7a3b2a.png.lzma2",
+      "bytes": 136294,
+      "crc32": 869423173,
+      "sha256": "ec7bdd7a3b2a3e43724d67c09254549bc27be3ed51e389d1636cb010b5ef46cc",
+      "packed_bytes": 132845,
+      "packed_crc32": 2630467129,
+      "packed_sha256": "0eebb4e0a7c1a63b9cf02478eeafd6d48c4ea5a509832d355393082e7089f440"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p4.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p4-2b2612cbdb7a.png.lzma2",
+      "bytes": 171622,
+      "crc32": 3416216868,
+      "sha256": "2b2612cbdb7abebfc7c8c3b01d8fabdd2f4ecfcdc1230c170fc9c62b782994ee",
+      "packed_bytes": 168305,
+      "packed_crc32": 3414574329,
+      "packed_sha256": "ee2b7d57521a889ed5995897366ff570c69ce02c65c014c380200a8299c88e5b"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p5.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p5-60c680695a72.png.lzma2",
+      "bytes": 191801,
+      "crc32": 2382811992,
+      "sha256": "60c680695a723160195733bb60ebf69e76fc243a4d31e39ce0f4492b20186aa0",
+      "packed_bytes": 189013,
+      "packed_crc32": 374468260,
+      "packed_sha256": "0bcf4dc11cb5e2319cb9182baf6a84e60ea74e4641ca499738eddc2ca64af208"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p6.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p6-0a81b5f9cd82.png.lzma2",
+      "bytes": 263318,
+      "crc32": 3747078199,
+      "sha256": "0a81b5f9cd8267971c98d9b9fe227d8a8b570780511bf84fb0a6b5e99d375057",
+      "packed_bytes": 261435,
+      "packed_crc32": 1683328927,
+      "packed_sha256": "19256c598c8e8c71e18650eee9e71939cecbcefd220e80fca4274a90a379bf8a"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p7.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p7-e4106e12ab06.png.lzma2",
+      "bytes": 247490,
+      "crc32": 843832708,
+      "sha256": "e4106e12ab0667953fb8d88643e8a8d7abc4c2b4e89b8ccc4d40cf7600117e4c",
+      "packed_bytes": 245176,
+      "packed_crc32": 431871067,
+      "packed_sha256": "8a604f7a510abc9418e580a1026b76a4781ea643a5cdc35253e3967919ea2d5f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p8.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p8-1ebc66ae3af0.png.lzma2",
+      "bytes": 236035,
+      "crc32": 1851794296,
+      "sha256": "1ebc66ae3af000edd767e800eceb1226ee2015376a20729be88925e593c4efbc",
+      "packed_bytes": 233597,
+      "packed_crc32": 705516606,
+      "packed_sha256": "b127bbd2d497fd3ce49cad13a9e52b091e27dcab874b9675ccecb1e63b6bfde1"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p9.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p9-bea970e409af.png.lzma2",
+      "bytes": 198966,
+      "crc32": 3934564045,
+      "sha256": "bea970e409af4b55edb63073456dd6949f6c04e182dabada8ba6fa978a1c1b14",
+      "packed_bytes": 196344,
+      "packed_crc32": 1467779885,
+      "packed_sha256": "aaaf115aaad73b0216f46eae0ccb8f3a8930df3d5dfc18fa55cedbcf78e1a245"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p10.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p10-00e12e2e1557.png.lzma2",
+      "bytes": 147908,
+      "crc32": 4257060731,
+      "sha256": "00e12e2e1557b68effd92ec8883eae7017235feee37076ff21c9b0b1e8e7ae0d",
+      "packed_bytes": 144751,
+      "packed_crc32": 3942885380,
+      "packed_sha256": "35237fd4f104b473a5ae6c3eb877920f68a783b8a868bf548026bc573e756585"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p11.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p11-862e7a008ede.png.lzma2",
+      "bytes": 132721,
+      "crc32": 3010418128,
+      "sha256": "862e7a008ede73988dbb00336096342fb204e0467c15fd796bb779a18ae3be2e",
+      "packed_bytes": 129075,
+      "packed_crc32": 213361779,
+      "packed_sha256": "8d2aa48688701632c4a21b6999bed20f20cd91b0850f59016a4beaf56f367dfa"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p12.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p12-d92dce511099.png.lzma2",
+      "bytes": 117133,
+      "crc32": 437814420,
+      "sha256": "d92dce5110990656ebf075657174e6dc2718ec085b1eb492fe9c18d035f7daf7",
+      "packed_bytes": 112785,
+      "packed_crc32": 1262025628,
+      "packed_sha256": "6a4f66092bef670beb0ea242f329aeb13c0e5a644540b6c1d3296e3a7719fc73"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p13.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p13-620187878f52.png.lzma2",
+      "bytes": 111643,
+      "crc32": 205105007,
+      "sha256": "620187878f52e5c7554e73519625001aae4a55577e9b8244dbc87da15c6f1b5c",
+      "packed_bytes": 106684,
+      "packed_crc32": 942961968,
+      "packed_sha256": "2a0f31370648e7daf1b82c3ff3e09b20d850d8c5f11b3612ac6c26c146486293"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p14.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p14-f334797fc227.png.lzma2",
+      "bytes": 108101,
+      "crc32": 1868716352,
+      "sha256": "f334797fc2275bdf520eccf92367a273e77ba22e0a724aafbad06d36afd187fb",
+      "packed_bytes": 102488,
+      "packed_crc32": 1362135914,
+      "packed_sha256": "f181f4f4a62a382121e8765f6ba8c8eb405e7c8b6407509aebc711d7b1cf3007"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p15.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p15-3754930f67e3.png.lzma2",
+      "bytes": 106110,
+      "crc32": 3947503955,
+      "sha256": "3754930f67e3306d1635582901df837656747fe4f6ce25a4e2ad57bffe4b822e",
+      "packed_bytes": 100794,
+      "packed_crc32": 891145755,
+      "packed_sha256": "2b921c08dcbc1dcc381d5442460db2170a742cb1785821a73ea450f94f87d239"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p16.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p16-bd39816bb72b.png.lzma2",
+      "bytes": 82350,
+      "crc32": 2698575159,
+      "sha256": "bd39816bb72b9e452f65f55cccb3d43275b36c7249825993ef6f9a90e2c9a6d5",
+      "packed_bytes": 78387,
+      "packed_crc32": 3621226019,
+      "packed_sha256": "2b110225b70420e6eee420c5ec7e18a0d7b11ab52d767580aa7cf2fbb9ac094f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p17.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p17-9cff1fc2b7cc.png.lzma2",
+      "bytes": 61472,
+      "crc32": 2094311231,
+      "sha256": "9cff1fc2b7ccc722ebcc515d50f0684f92a57d5efa0b2c923d2f4511891c4fc2",
+      "packed_bytes": 57806,
+      "packed_crc32": 239766588,
+      "packed_sha256": "4264c3bd4eea58058e71c5cb19d4760079129a215214f68c260816c1909f127b"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_4k-p18.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_4k-p18-97ebcfff0e2a.png.lzma2",
+      "bytes": 3129,
+      "crc32": 857523957,
+      "sha256": "97ebcfff0e2a217cc76c3933ef5b093be196d21bbae616ddf974f9471f8cf4f4",
+      "packed_bytes": 108,
+      "packed_crc32": 2641691590,
+      "packed_sha256": "8611a47bb75c850c253b4d786fd2322c7dd701d83f25ecdb68cc04f6da2a83ef"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k.mp3",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-99ab96af78fd.mp3.lzma2",
+      "bytes": 180757,
+      "crc32": 2127879457,
+      "sha256": "99ab96af78fdfd60ee2cfe7712662e3403410fe0bde7838be0ca65c18b65ab38",
+      "packed_bytes": 160923,
+      "packed_crc32": 4135586373,
+      "packed_sha256": "2bb8076b89ff4b0ef01834886aa42266e5a6a16d76bf1ba7bdce0bf57ae61ca1"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p1.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p1-5d159dd2af33.png.lzma2",
+      "bytes": 15218,
+      "crc32": 1746527420,
+      "sha256": "5d159dd2af3387550ddf76d8356c4b4ec02f9d5b7f6013ce8284d99e0053aca3",
+      "packed_bytes": 12345,
+      "packed_crc32": 1843293756,
+      "packed_sha256": "c7389a941b079ca663c84e6df8c2e590d24af83d4a6e531e9e287b43a8b85434"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p2.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p2-8e47c253db05.png.lzma2",
+      "bytes": 79818,
+      "crc32": 4263889859,
+      "sha256": "8e47c253db054911fcd4589d1c087665be9c3f803de82a2dd1389778b458aa71",
+      "packed_bytes": 76521,
+      "packed_crc32": 3611018991,
+      "packed_sha256": "0d0556a3c3a84206fca7fc6e0ef9f446824e38d1d172cb6a8b0fcc3de5db88e3"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p3.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p3-60de1ae6d79d.png.lzma2",
+      "bytes": 136329,
+      "crc32": 747806339,
+      "sha256": "60de1ae6d79da379f7e948020f5b239546d3a9c132f74686f7a33980b4e54099",
+      "packed_bytes": 133366,
+      "packed_crc32": 2555232139,
+      "packed_sha256": "46ad46f61da8cc7937553f19a961bb9ec949dc94440d34b0bb7fd147b519ad7c"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p4.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p4-e32bcc8a1683.png.lzma2",
+      "bytes": 131463,
+      "crc32": 917555072,
+      "sha256": "e32bcc8a16831bc753c888991c0fda2c06b92ed51bf391f40e6543bfdd7525be",
+      "packed_bytes": 128196,
+      "packed_crc32": 184777279,
+      "packed_sha256": "2fccf0a31b9b2d985ad0d6df14aea5d821177d3c236470c27c7874ebb7218bb8"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p5.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p5-66b33733cbf5.png.lzma2",
+      "bytes": 189934,
+      "crc32": 1546573794,
+      "sha256": "66b33733cbf5ad8f14aa3ec73d2e3f4035230d1bfd4c2bc8b6ef2fe04f6268ec",
+      "packed_bytes": 187010,
+      "packed_crc32": 1560798003,
+      "packed_sha256": "58bff164e7c912ec4cea653b9cbf9e85eb11f4d5bc463dc94f11f4d20603b446"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p6.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p6-ea7d29f74a7b.png.lzma2",
+      "bytes": 271222,
+      "crc32": 3211741203,
+      "sha256": "ea7d29f74a7b170fd682b94abffd628e5601fef9ab5720ecc446a0e7b0f2ebf8",
+      "packed_bytes": 269473,
+      "packed_crc32": 2760489717,
+      "packed_sha256": "d1a4b78ccea57c55d51ebb77977b4d4874c8a75d45d4a4b4ebeab9b494cb5117"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p7.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p7-58ac74ff4fcf.png.lzma2",
+      "bytes": 388216,
+      "crc32": 4059274771,
+      "sha256": "58ac74ff4fcff59dd6b93e0a69f30362d7848660f1a88f39816029f041018764",
+      "packed_bytes": 386939,
+      "packed_crc32": 1205379233,
+      "packed_sha256": "f738f10c0264522e9a7a6474accaf0a97bc58e56f58fae07fb8c671210ba2982"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p8.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p8-5e7ca2644f33.png.lzma2",
+      "bytes": 403812,
+      "crc32": 763299395,
+      "sha256": "5e7ca2644f334cd8a59b5a52a4c5dcd54b7e86ebf95578ec2616aa49dcdbfd39",
+      "packed_bytes": 402967,
+      "packed_crc32": 863748890,
+      "packed_sha256": "73484103b45bdeb6c81147047d9afeeba9c4e21e76734bb2976a2178063670c1"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p9.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p9-4eaf1162548b.png.lzma2",
+      "bytes": 404774,
+      "crc32": 3363054975,
+      "sha256": "4eaf1162548babc0d4b0966347c3ddc67d1106d737f78e5720223f5f6fc59d24",
+      "packed_bytes": 403985,
+      "packed_crc32": 3678620286,
+      "packed_sha256": "4427912ee0f0c82bfb187783f97ee9de25a0c77dc72f2067e5fed0dea70888e7"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p10.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p10-07d4c3d95ae3.png.lzma2",
+      "bytes": 351465,
+      "crc32": 1029404623,
+      "sha256": "07d4c3d95ae34c6f3da512f80ae8f329610cd4fcafaa4b687e7e0dafbb458da4",
+      "packed_bytes": 349921,
+      "packed_crc32": 91095507,
+      "packed_sha256": "a5439eb8f97e52ae884f62b54d98a91137071f0f09ee0a7d41d65d4178d2be8f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p11.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p11-0e4c3d197aa2.png.lzma2",
+      "bytes": 257909,
+      "crc32": 2138776922,
+      "sha256": "0e4c3d197aa2b0b74fb86bc81afa549d720530f76c319b54a043a4f4826430de",
+      "packed_bytes": 255908,
+      "packed_crc32": 3551141211,
+      "packed_sha256": "21c1b69858e89f317f3326acc2779e62233347f08539a42cd9d3a63aad8b595c"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p12.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p12-fba1d9cb63f1.png.lzma2",
+      "bytes": 197155,
+      "crc32": 3577444692,
+      "sha256": "fba1d9cb63f18c2aa4f8f869f79cbd459189036a955f93b266268615bff47384",
+      "packed_bytes": 195054,
+      "packed_crc32": 4106762483,
+      "packed_sha256": "658f744ec7abddc99dfb5397ca03a66f6b4af7ed7fe1f074461b8a23e57136b2"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p13.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p13-b42b1e754c6f.png.lzma2",
+      "bytes": 118219,
+      "crc32": 3385207080,
+      "sha256": "b42b1e754c6fe1869c917cfecd9196ac3faba3af0fbc1e8a42b420defad393b9",
+      "packed_bytes": 114310,
+      "packed_crc32": 3622870275,
+      "packed_sha256": "74e88e0eedf8ecf5e44568c9e788f5949a6fa27c3e9c0b9b3492c8adf527d907"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p14.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p14-7457b6391b1a.png.lzma2",
+      "bytes": 108954,
+      "crc32": 626685286,
+      "sha256": "7457b6391b1aa6a35965c109e432f33d89124ef8eca672d39038f827e5c8e3a4",
+      "packed_bytes": 102890,
+      "packed_crc32": 1646563022,
+      "packed_sha256": "535e05c60bf91348e123bcf0250bc31f5f5644ca937b39177b7d663c15eb6cb1"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p15.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p15-0a9e413f6b0a.png.lzma2",
+      "bytes": 108912,
+      "crc32": 2567518231,
+      "sha256": "0a9e413f6b0adb9258dff334343bae672e6524f692c1833b1a14565ea3c9dcb6",
+      "packed_bytes": 102910,
+      "packed_crc32": 3843198890,
+      "packed_sha256": "337d883dc00782bdb8f50a2ebdc99e197f466e6841a9cfc17bd787c7d4297137"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p16.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p16-85c88a0b09c6.png.lzma2",
+      "bytes": 153022,
+      "crc32": 295418953,
+      "sha256": "85c88a0b09c62ba09d8192b733ecc4a91174cc472f90cd6a6c2ffc407187f671",
+      "packed_bytes": 149544,
+      "packed_crc32": 1289153046,
+      "packed_sha256": "56ce4f7216879d692b0bbd6829d9b2f028947838b5d1a039219a500c5a41853f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p17.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p17-8257005d9295.png.lzma2",
+      "bytes": 105421,
+      "crc32": 3770257448,
+      "sha256": "8257005d929532d81931f4a4c0697508288f29672f2198680507787c3506749e",
+      "packed_bytes": 99632,
+      "packed_crc32": 4066828701,
+      "packed_sha256": "789e16ac2e7e418b3de5ee44987a3a0c36b00e4df37cacf0eccf9fe9ad9b5629"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p18.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p18-ee13fb3bc8ef.png.lzma2",
+      "bytes": 105428,
+      "crc32": 598275069,
+      "sha256": "ee13fb3bc8efe0bd15a5893f1b523c482591500f53105e43d124ab00e5bb6826",
+      "packed_bytes": 99504,
+      "packed_crc32": 4122255475,
+      "packed_sha256": "61bd18e1ebd41fe9d8319de592316b0a956d38eeedf86810ebc02aeb4fb604cb"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p19.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p19-ee13fb3bc8ef.png.lzma2",
+      "bytes": 105428,
+      "crc32": 598275069,
+      "sha256": "ee13fb3bc8efe0bd15a5893f1b523c482591500f53105e43d124ab00e5bb6826",
+      "packed_bytes": 99504,
+      "packed_crc32": 4122255475,
+      "packed_sha256": "61bd18e1ebd41fe9d8319de592316b0a956d38eeedf86810ebc02aeb4fb604cb"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p20.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p20-11922fcc70db.png.lzma2",
+      "bytes": 131382,
+      "crc32": 3009305499,
+      "sha256": "11922fcc70db4e12cf31670990c27149d3ecee603be0a59d95c6924d068c2d8c",
+      "packed_bytes": 127176,
+      "packed_crc32": 3901471490,
+      "packed_sha256": "f31d21cd550ed1c9292dba210eac0c212b6aa90752453640510cbb746caf1c8d"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p21.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p21-6f3e556d9be8.png.lzma2",
+      "bytes": 146165,
+      "crc32": 942366366,
+      "sha256": "6f3e556d9be8266c03b347916b228617e075484096d5706b893d779515e522e7",
+      "packed_bytes": 143160,
+      "packed_crc32": 607898006,
+      "packed_sha256": "f3105d8a6889f5814816076ad063c6ffa8a6b3072ddee8b547999bd6659e9f1b"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p22.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p22-024f605fee8b.png.lzma2",
+      "bytes": 164313,
+      "crc32": 2371361836,
+      "sha256": "024f605fee8bb4098e9e373aeaca51886ebd1caaa328fe71f1d61ddcbcd7230a",
+      "packed_bytes": 161231,
+      "packed_crc32": 3323774690,
+      "packed_sha256": "3933e253b734d5883c2a9d4d21876fa44f61b87638ce02ba87896923a3e1f73f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p23.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p23-093d2a8fc19f.png.lzma2",
+      "bytes": 131278,
+      "crc32": 2021243630,
+      "sha256": "093d2a8fc19f1b3f75c75d6d6e9e122cff4c3b0677941a0de02341354f960e3e",
+      "packed_bytes": 127318,
+      "packed_crc32": 3469537550,
+      "packed_sha256": "33805f22667765b12104819adae1b208af9a2108161325c49cb16b993a2fd85a"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p24.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p24-3c31cc142e0b.png.lzma2",
+      "bytes": 145794,
+      "crc32": 793770809,
+      "sha256": "3c31cc142e0b089337050d8c7224c036fe03f9c63fb25cb8a43a22cca3df00a1",
+      "packed_bytes": 142588,
+      "packed_crc32": 2217078413,
+      "packed_sha256": "2e4b619f4b10e4cf20ae2f73b4aee72352c0a88af4bef998aaf7a6d948334c4e"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p25.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p25-d6edc8c93b70.png.lzma2",
+      "bytes": 143321,
+      "crc32": 3658524982,
+      "sha256": "d6edc8c93b7071a46150a0c88bd46b833bc4a654e4a493bafd1903538b7d0f83",
+      "packed_bytes": 139736,
+      "packed_crc32": 2467128724,
+      "packed_sha256": "ab8518a754128caae9932c61dd17972bd70aae572c94a77474504151cf0fa43f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p26.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p26-3ef1c625fff9.png.lzma2",
+      "bytes": 141285,
+      "crc32": 1888511844,
+      "sha256": "3ef1c625fff9d254e5b901876be0c88f641bd737ca51dbfae3e847e6e84c5ca4",
+      "packed_bytes": 137505,
+      "packed_crc32": 285529431,
+      "packed_sha256": "1b40d59c4ed9be74a41447dc68b22d9f50e434ed97ff2d0c7b76307cf1c4f142"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p27.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p27-72e9aea8b33f.png.lzma2",
+      "bytes": 138814,
+      "crc32": 3869776524,
+      "sha256": "72e9aea8b33f016b1c8f1d648716644958a0fa6e24e7194478dbaa3ac276c2a2",
+      "packed_bytes": 135095,
+      "packed_crc32": 590641122,
+      "packed_sha256": "1f261270d6c765be4454f3db09fd401e9a7422b87828d77ee3248ebfff9feda1"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p28.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p28-8a2b94d9b169.png.lzma2",
+      "bytes": 135951,
+      "crc32": 2823829073,
+      "sha256": "8a2b94d9b169ef09fbe391ef698cf0976de27d720974b688c4bbd7d81c680744",
+      "packed_bytes": 132203,
+      "packed_crc32": 3062371191,
+      "packed_sha256": "94eee37482ecf677c00f961df8e0138ab6bad694dd0f69bb34c5fd4e94569410"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p29.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p29-2a1072827353.png.lzma2",
+      "bytes": 118750,
+      "crc32": 3689881455,
+      "sha256": "2a1072827353753197dc517a8d5d51003c264a2a58dccdc33edc7aafbb3272a0",
+      "packed_bytes": 114858,
+      "packed_crc32": 1178126691,
+      "packed_sha256": "c6ea89a7ed4160aa6ef6527ec19c67a0c10c1ed728ee951a6c144ee1018e14ab"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p30.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p30-90b7c6a9025b.png.lzma2",
+      "bytes": 113900,
+      "crc32": 3992900659,
+      "sha256": "90b7c6a9025b5126742edfba7c718fc4622c5eea91822d74cab3ec00f85dcf91",
+      "packed_bytes": 109345,
+      "packed_crc32": 2730090092,
+      "packed_sha256": "3f0c87315f8d120d52831a757f89d255a76e648f22c728b471df96d115ad4420"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p31.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p31-7fa42acd72ab.png.lzma2",
+      "bytes": 153470,
+      "crc32": 10748036,
+      "sha256": "7fa42acd72ab1de025ec8d4f1c584177782542b6556fcdeae36ca61d51a8463f",
+      "packed_bytes": 149986,
+      "packed_crc32": 2012541934,
+      "packed_sha256": "2df47d9fe69bd6f728d61e4e6b06aacd7fb25242337486f24ca1f41115a293ab"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p32.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p32-deac17d271f6.png.lzma2",
+      "bytes": 121730,
+      "crc32": 1185771739,
+      "sha256": "deac17d271f6f6976ef6ecf31181b76119841f1556618569ad936dcb40408f4a",
+      "packed_bytes": 117870,
+      "packed_crc32": 2786923261,
+      "packed_sha256": "d6dd1f6b1f535a1c5207a11c4095a3975d913d34cce6bd337a03141198d814cc"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p33.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p33-b6dec805eb31.png.lzma2",
+      "bytes": 109285,
+      "crc32": 3463654399,
+      "sha256": "b6dec805eb31fe7d6a1e2ccdf5aacb0cca0a2ae0ef47b7ef89e6dc688388294c",
+      "packed_bytes": 104536,
+      "packed_crc32": 2298322262,
+      "packed_sha256": "daa2654b59d120fcc2a24d2828133d8e43075a69a5d793bab28b405708b0a1e7"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p34.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p34-0d3cc1b1890e.png.lzma2",
+      "bytes": 105477,
+      "crc32": 457685386,
+      "sha256": "0d3cc1b1890eae95445ef0e19a9dcd443e252f7e1963d9d6b8541900395d31f3",
+      "packed_bytes": 99871,
+      "packed_crc32": 1196043310,
+      "packed_sha256": "7e3c9efbec54d17ff19ce57fcdd0d2e9713489c45b7237df0e273eb7dcdf7903"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p35.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p35-3b0f34e8d9f7.png.lzma2",
+      "bytes": 105548,
+      "crc32": 1875015000,
+      "sha256": "3b0f34e8d9f7408a672ea5df94d38ebb7b409bab111dafaa723bf0cb037efc98",
+      "packed_bytes": 99949,
+      "packed_crc32": 707358991,
+      "packed_sha256": "530e587b5442d465ec606670481cd1c30b25ea482e319d210442d752f7b06cad"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p36.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p36-236abbe47e76.png.lzma2",
+      "bytes": 105478,
+      "crc32": 1985567120,
+      "sha256": "236abbe47e7662a1e87cf8f35d7e450d9f384526798d19572151d05b666530f1",
+      "packed_bytes": 99778,
+      "packed_crc32": 585945626,
+      "packed_sha256": "fe50ab4369c995ed363d2b3fd08eb599d0538780159eddc094308f676f432394"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p37.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p37-b5e09babdab4.png.lzma2",
+      "bytes": 105486,
+      "crc32": 1182099085,
+      "sha256": "b5e09babdab45405e97b32139cd0fcfb2fe50648531d851223c6276ebf163ad7",
+      "packed_bytes": 99849,
+      "packed_crc32": 1415299374,
+      "packed_sha256": "b8af7fe704226b5801a56affaf6cbcb872febb00155491e4ed398cf4f4c5ad8e"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p38.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p38-a13836c87057.png.lzma2",
+      "bytes": 105479,
+      "crc32": 4294813065,
+      "sha256": "a13836c87057e8766c118d4d0ccf52cba3a5f92148024ac74608dd60737e248a",
+      "packed_bytes": 99870,
+      "packed_crc32": 2552032324,
+      "packed_sha256": "731e13179d954b33bb86cd5ebe526e27e83904df72c081387176b119fdf6d808"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p39.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p39-1a2519d00f40.png.lzma2",
+      "bytes": 106050,
+      "crc32": 3721577709,
+      "sha256": "1a2519d00f40d02204905d4aec2f6b6235033258be3677c8a8d22ff76d0c21d2",
+      "packed_bytes": 100527,
+      "packed_crc32": 2125673854,
+      "packed_sha256": "0347c19a78467ea0b5cfd3124c505f3c92340896a927a8861f903e6f40125d8f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p40.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p40-df2286e958b4.png.lzma2",
+      "bytes": 105494,
+      "crc32": 1742410570,
+      "sha256": "df2286e958b498adf9d1407e0b2b6bb6b6b30c588da5392dfc9b512195527663",
+      "packed_bytes": 99892,
+      "packed_crc32": 209334920,
+      "packed_sha256": "4cb1faaa206d2573e64abafe3eba817964ede2e991d89ef6151983a5fea4df6c"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p41.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p41-df2286e958b4.png.lzma2",
+      "bytes": 105494,
+      "crc32": 1742410570,
+      "sha256": "df2286e958b498adf9d1407e0b2b6bb6b6b30c588da5392dfc9b512195527663",
+      "packed_bytes": 99892,
+      "packed_crc32": 209334920,
+      "packed_sha256": "4cb1faaa206d2573e64abafe3eba817964ede2e991d89ef6151983a5fea4df6c"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p42.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p42-2db4335ef9d0.png.lzma2",
+      "bytes": 105500,
+      "crc32": 1842331241,
+      "sha256": "2db4335ef9d0b97c878061e0bf7214b1bf28ebb53d84e91add49c10cdc20dbdf",
+      "packed_bytes": 99880,
+      "packed_crc32": 1517415621,
+      "packed_sha256": "6192a8cf45cc6612b78359bdb2c7b9d13b2d16f83f787e2b8ee197b4012b31bd"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p43.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p43-2db4335ef9d0.png.lzma2",
+      "bytes": 105500,
+      "crc32": 1842331241,
+      "sha256": "2db4335ef9d0b97c878061e0bf7214b1bf28ebb53d84e91add49c10cdc20dbdf",
+      "packed_bytes": 99880,
+      "packed_crc32": 1517415621,
+      "packed_sha256": "6192a8cf45cc6612b78359bdb2c7b9d13b2d16f83f787e2b8ee197b4012b31bd"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p44.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p44-4ab728bff818.png.lzma2",
+      "bytes": 141931,
+      "crc32": 1979697225,
+      "sha256": "4ab728bff818e512420dd439e2855d6c3f46cb1c46b6d824fa55d5caaac963b8",
+      "packed_bytes": 137725,
+      "packed_crc32": 2598968502,
+      "packed_sha256": "76c51e6451a7faeea465044cf2543f6449b259c43dfe03ca0ee69ec6a03c18b0"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p45.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p45-13a724485d76.png.lzma2",
+      "bytes": 108172,
+      "crc32": 2550953290,
+      "sha256": "13a724485d7684980a8e43419baced8152e91b0c67926fd9de412f937023b25e",
+      "packed_bytes": 103294,
+      "packed_crc32": 2679407120,
+      "packed_sha256": "246484c70ff4cd727b680d32aab149a956f520c68130f6ba0cffe8c0eb54e81c"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p46.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p46-91f939f61896.png.lzma2",
+      "bytes": 117400,
+      "crc32": 2002368386,
+      "sha256": "91f939f61896237553cf143d9b1dbd646b3a6ea3eb2006c141d5df7e327469cc",
+      "packed_bytes": 113412,
+      "packed_crc32": 1160765011,
+      "packed_sha256": "f79f5ae1f61f6af99e0d237b9a4dca528d862a0a9dc501a5e59ea5f38e6e37f8"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p47.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p47-1899b446cd54.png.lzma2",
+      "bytes": 100283,
+      "crc32": 2656141338,
+      "sha256": "1899b446cd5471dfd1d37dadae5d9b143ba19a58caa3d8c7c3b337e109e95b75",
+      "packed_bytes": 96210,
+      "packed_crc32": 268362407,
+      "packed_sha256": "b991f02e69cbac6a1f5bc146e7d86264f5a27f06a1eeff76246b5ebde4c17d90"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p48.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p48-2e025231cac8.png.lzma2",
+      "bytes": 49502,
+      "crc32": 378520714,
+      "sha256": "2e025231cac8a51643e5929bc2fd8e5d37b4a486ef2c01f4f84b4ba6847da89a",
+      "packed_bytes": 45175,
+      "packed_crc32": 1572295784,
+      "packed_sha256": "8e1f160da9f50f05f555befb226b7d4f8dfcddafb7e50fab8d7b9749994fe197"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p49.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p49-a7e55c1822ba.png.lzma2",
+      "bytes": 41324,
+      "crc32": 270969180,
+      "sha256": "a7e55c1822ba2e551d81e2bca2d7c093d3b00d68e13dc1585ba4ac0aa11583e3",
+      "packed_bytes": 37175,
+      "packed_crc32": 920678807,
+      "packed_sha256": "6f4bc9c90c352b7565c000ef97c2be76351d4dbbcdff3a8b2ad2f74a0cd8971f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p50.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p50-8b4ff753d705.png.lzma2",
+      "bytes": 53934,
+      "crc32": 1353165335,
+      "sha256": "8b4ff753d7050930f9a266f58cff2885caacb36c97f4a5c4eb0cbfe665a29f69",
+      "packed_bytes": 50298,
+      "packed_crc32": 1094287734,
+      "packed_sha256": "02bd1ed3c23cd08ef8e8061c643c1c268dd09a29efddfbb73ec02f4d90ff7f46"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p51.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p51-4867cf5aa3ba.png.lzma2",
+      "bytes": 72427,
+      "crc32": 3390331080,
+      "sha256": "4867cf5aa3bafd2a5d66310f20e2b42ab45669f69a92ea54746ac223ddd425b6",
+      "packed_bytes": 68349,
+      "packed_crc32": 3575557370,
+      "packed_sha256": "560b1bf391965125851c57f42f9d1111e5b60770492e004995537780b13e4b60"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p52.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p52-c0f8545c8fa7.png.lzma2",
+      "bytes": 67141,
+      "crc32": 3807518042,
+      "sha256": "c0f8545c8fa718a6c0e74af5105c40ab2587f691bafcfdb6c12f5c81d0642250",
+      "packed_bytes": 62956,
+      "packed_crc32": 1884324886,
+      "packed_sha256": "f612593f0fbde2e6f5cf0abd3ae30d1b3ce29bc3a87194813db53ba7e7f619ed"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p53.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p53-f61d8a3d2777.png.lzma2",
+      "bytes": 30170,
+      "crc32": 696807183,
+      "sha256": "f61d8a3d2777abbc9346eed1b71990eb4a2fc930bf1fcf381943357e778a845f",
+      "packed_bytes": 26964,
+      "packed_crc32": 422655655,
+      "packed_sha256": "38f9c31a92b2b26a20d0486b473ed802097ca068cdd45d0ae1c516089ae67476"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p54.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p54-97ebcfff0e2a.png.lzma2",
+      "bytes": 3129,
+      "crc32": 857523957,
+      "sha256": "97ebcfff0e2a217cc76c3933ef5b093be196d21bbae616ddf974f9471f8cf4f4",
+      "packed_bytes": 108,
+      "packed_crc32": 2641691590,
+      "packed_sha256": "8611a47bb75c850c253b4d786fd2322c7dd701d83f25ecdb68cc04f6da2a83ef"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p55.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p55-97ebcfff0e2a.png.lzma2",
+      "bytes": 3129,
+      "crc32": 857523957,
+      "sha256": "97ebcfff0e2a217cc76c3933ef5b093be196d21bbae616ddf974f9471f8cf4f4",
+      "packed_bytes": 108,
+      "packed_crc32": 2641691590,
+      "packed_sha256": "8611a47bb75c850c253b4d786fd2322c7dd701d83f25ecdb68cc04f6da2a83ef"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p56.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p56-97ebcfff0e2a.png.lzma2",
+      "bytes": 3129,
+      "crc32": 857523957,
+      "sha256": "97ebcfff0e2a217cc76c3933ef5b093be196d21bbae616ddf974f9471f8cf4f4",
+      "packed_bytes": 108,
+      "packed_crc32": 2641691590,
+      "packed_sha256": "8611a47bb75c850c253b4d786fd2322c7dd701d83f25ecdb68cc04f6da2a83ef"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_5k-p57.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_5k-p57-97ebcfff0e2a.png.lzma2",
+      "bytes": 3129,
+      "crc32": 857523957,
+      "sha256": "97ebcfff0e2a217cc76c3933ef5b093be196d21bbae616ddf974f9471f8cf4f4",
+      "packed_bytes": 108,
+      "packed_crc32": 2641691590,
+      "packed_sha256": "8611a47bb75c850c253b4d786fd2322c7dd701d83f25ecdb68cc04f6da2a83ef"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k.mp3",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-5394497375b3.mp3.lzma2",
+      "bytes": 174488,
+      "crc32": 4175329492,
+      "sha256": "5394497375b32472de5ea83b88d58b647912b2f684635adad3851c5e82b23eef",
+      "packed_bytes": 161363,
+      "packed_crc32": 257121307,
+      "packed_sha256": "d3ea3c5d7f4d529928acf53e8ea1d03a8d32bbfe4abf6cfb555f04cb213fb8df"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p1.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p1-97ebcfff0e2a.png.lzma2",
+      "bytes": 3129,
+      "crc32": 857523957,
+      "sha256": "97ebcfff0e2a217cc76c3933ef5b093be196d21bbae616ddf974f9471f8cf4f4",
+      "packed_bytes": 108,
+      "packed_crc32": 2641691590,
+      "packed_sha256": "8611a47bb75c850c253b4d786fd2322c7dd701d83f25ecdb68cc04f6da2a83ef"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p2.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p2-a4487cbfda5e.png.lzma2",
+      "bytes": 22934,
+      "crc32": 3970376669,
+      "sha256": "a4487cbfda5e1820afd97e96a52f379331c0341ba2d497fb36aa63b6ee0a44dd",
+      "packed_bytes": 18802,
+      "packed_crc32": 755830840,
+      "packed_sha256": "26a659806af87ff4140d56db4b5517c4e380cd6fd8db70045cb20ede5483c4d5"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p3.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p3-cb923c2880b9.png.lzma2",
+      "bytes": 101750,
+      "crc32": 553334129,
+      "sha256": "cb923c2880b91797bd2574e44d9b3354114bace3835228a0934f6d632e077c81",
+      "packed_bytes": 98311,
+      "packed_crc32": 2827254962,
+      "packed_sha256": "b6d03638b65b16affce8236145c3bebd7db98b3438a27de6dcb92e4af9348eca"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p4.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p4-2005359d871e.png.lzma2",
+      "bytes": 150511,
+      "crc32": 2991311003,
+      "sha256": "2005359d871ea79077f499b5204a3150821c76b7561ad3dc6ad4fee66f1f5569",
+      "packed_bytes": 147170,
+      "packed_crc32": 2848985209,
+      "packed_sha256": "de5207fdbd08128e13a3b70ae88e95820ed1e75f8562c0e58bd78cfd08592dc3"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p5.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p5-777025e9405f.png.lzma2",
+      "bytes": 113208,
+      "crc32": 3251823302,
+      "sha256": "777025e9405fb61d628b5351528588a9f59c11cf80824ada34651b445998469c",
+      "packed_bytes": 109382,
+      "packed_crc32": 2482349722,
+      "packed_sha256": "af64d3d5522764b3df0822f76ee95752c737e5fdefb8b17f478f12db4abe469b"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p6.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p6-203395383b1a.png.lzma2",
+      "bytes": 200780,
+      "crc32": 3915497653,
+      "sha256": "203395383b1af53d68344c015892f07e2506e2477c69dc9edb6aa64afa98ab0a",
+      "packed_bytes": 198347,
+      "packed_crc32": 4240234157,
+      "packed_sha256": "5576704656111a58e1ff5d2d816764b1e71283616ed0cc0acab110294a8dcb53"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p7.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p7-f6838cb25bea.png.lzma2",
+      "bytes": 278142,
+      "crc32": 398847160,
+      "sha256": "f6838cb25beaee5b888ad25033d2fc3fae34224f43728ddd4d6d63c18bac1a03",
+      "packed_bytes": 276102,
+      "packed_crc32": 2319333850,
+      "packed_sha256": "d2a83b10103c237509e730dc24a08eda8367ac95adac0069fd277fd4ac078545"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p8.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p8-531eeea36d9d.png.lzma2",
+      "bytes": 387350,
+      "crc32": 1885849732,
+      "sha256": "531eeea36d9d608110deb2776e3f2925ea677090f1908252792948edc0ca33e3",
+      "packed_bytes": 386280,
+      "packed_crc32": 3859782598,
+      "packed_sha256": "e919d2ccc2d7fef558f823bb5d9ed8533ed262e7287334af0600cc0a48d285f3"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p9.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p9-12813df6528d.png.lzma2",
+      "bytes": 410170,
+      "crc32": 185524960,
+      "sha256": "12813df6528dbd5d01c8cc745d7bee1198c161abf30ec7b6b659b7b1c16473c7",
+      "packed_bytes": 409680,
+      "packed_crc32": 2804103614,
+      "packed_sha256": "90e137e97a8b9923ffe3f8dcaa70aead6f103f21791bdb3b51356c2ba2208b67"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p10.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p10-3edc508141bb.png.lzma2",
+      "bytes": 385838,
+      "crc32": 1479204410,
+      "sha256": "3edc508141bb3059e3335e016a6c0159edaccd83911d664f614689563cffae80",
+      "packed_bytes": 384329,
+      "packed_crc32": 195476334,
+      "packed_sha256": "e859c961ac695b20744960609ce0ce37e06d89468814f4f0b842266f6e98fa04"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p11.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p11-db15cb6c3c58.png.lzma2",
+      "bytes": 358090,
+      "crc32": 3086435611,
+      "sha256": "db15cb6c3c58e78bc61c58e2a12a8e05ff1bef01c5879104b669d6f2f8d8120e",
+      "packed_bytes": 356577,
+      "packed_crc32": 2384970690,
+      "packed_sha256": "405cecaefbbda884b0048ca7a3750397347f95be9781375dd78931428542f352"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p12.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p12-752d13477328.png.lzma2",
+      "bytes": 246486,
+      "crc32": 2219014041,
+      "sha256": "752d134773281915d1bb334dbeaa1d09d1f0f5bdda860ede7b6b0aedfbb9eb6b",
+      "packed_bytes": 245136,
+      "packed_crc32": 3663771002,
+      "packed_sha256": "73c95e2c39399518cf213f3382e0e9f13649547f76678a9921ca540ffa83d1cb"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p13.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p13-fa99b014b291.png.lzma2",
+      "bytes": 168449,
+      "crc32": 2958001034,
+      "sha256": "fa99b014b2917d42d69baaa681dad5382406be7b9a367dcc93b86ecd5bb7efd7",
+      "packed_bytes": 165623,
+      "packed_crc32": 1096105341,
+      "packed_sha256": "e3cd8ed1b047fddcb20802e3865e50b2308dfe524c0863b897a44ee69cc5e3ce"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p14.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p14-93d60fc1ffbc.png.lzma2",
+      "bytes": 120873,
+      "crc32": 3150335657,
+      "sha256": "93d60fc1ffbca7e55adef8ae8feebb817e7fa33f90fc51284ce1a4a3133f64f0",
+      "packed_bytes": 117136,
+      "packed_crc32": 1415579003,
+      "packed_sha256": "ea9ff84d3cc350483ca61e61a53f05d19fe4d8d098984a7c421f47b505936273"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p15.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p15-0e179263e2fd.png.lzma2",
+      "bytes": 110890,
+      "crc32": 3179647812,
+      "sha256": "0e179263e2fd73c6e76c4905ba5e5353528c711f5da41de8cb19e6d6b50e72af",
+      "packed_bytes": 104652,
+      "packed_crc32": 3545915120,
+      "packed_sha256": "b697151866154d5cf11568640acc7eb3c89fdbc27e21f2413320d01fbe56a2d7"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p16.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p16-c14e21340588.png.lzma2",
+      "bytes": 155297,
+      "crc32": 2171888063,
+      "sha256": "c14e2134058862937acfee79c4052370a371db58d1f7e11e4210e1f52d17be91",
+      "packed_bytes": 152028,
+      "packed_crc32": 1255635238,
+      "packed_sha256": "ebbb0152839ff14fcd51f0a3c0892a5e84fb8aba7515a95e395de04de679ea4c"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p17.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p17-dec7c30188eb.png.lzma2",
+      "bytes": 106569,
+      "crc32": 1365623511,
+      "sha256": "dec7c30188eb9d36097d41f2d2a5f4ff924dc16fb73b9d47f9c24b5d0d3ea476",
+      "packed_bytes": 101393,
+      "packed_crc32": 2469642398,
+      "packed_sha256": "fd0c2d46e615ebc2f2241f47e1fdab7c24225d8ea380920030012a07796982b5"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p18.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p18-dec7c30188eb.png.lzma2",
+      "bytes": 106569,
+      "crc32": 1365623511,
+      "sha256": "dec7c30188eb9d36097d41f2d2a5f4ff924dc16fb73b9d47f9c24b5d0d3ea476",
+      "packed_bytes": 101393,
+      "packed_crc32": 2469642398,
+      "packed_sha256": "fd0c2d46e615ebc2f2241f47e1fdab7c24225d8ea380920030012a07796982b5"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p19.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p19-7f3dd0f2d24a.png.lzma2",
+      "bytes": 106558,
+      "crc32": 2970126009,
+      "sha256": "7f3dd0f2d24a48b533d7ba77cb274e349c12e2c5cfb900fed8cacb80121a4c90",
+      "packed_bytes": 101455,
+      "packed_crc32": 4233785216,
+      "packed_sha256": "7ab1eb51f8f802e425464835b0816fc156b165f4bb10812ee76a5fcec5c7e3d5"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p20.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p20-7f3dd0f2d24a.png.lzma2",
+      "bytes": 106558,
+      "crc32": 2970126009,
+      "sha256": "7f3dd0f2d24a48b533d7ba77cb274e349c12e2c5cfb900fed8cacb80121a4c90",
+      "packed_bytes": 101455,
+      "packed_crc32": 4233785216,
+      "packed_sha256": "7ab1eb51f8f802e425464835b0816fc156b165f4bb10812ee76a5fcec5c7e3d5"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p21.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p21-725085fdd11d.png.lzma2",
+      "bytes": 129866,
+      "crc32": 4038711094,
+      "sha256": "725085fdd11d21ce4fe9568a9d3348904336956aa5299e40e14d823fa87e21f5",
+      "packed_bytes": 125709,
+      "packed_crc32": 1138143554,
+      "packed_sha256": "1478b26086fe9fbae95c69b0cb40d5c2fb67138be229dd4c8638a06bcf6591bf"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p22.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p22-317ca06d8b75.png.lzma2",
+      "bytes": 152336,
+      "crc32": 2408279237,
+      "sha256": "317ca06d8b7548a7aa86683150c84f66881023d1958d3d9da3b782819e87b144",
+      "packed_bytes": 149276,
+      "packed_crc32": 2216291958,
+      "packed_sha256": "2345ed86a21849e265e66e75f9089c49954624c5a27897ed297ed0f72f4fa422"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p23.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p23-bf3bd4665cbc.png.lzma2",
+      "bytes": 153624,
+      "crc32": 680670193,
+      "sha256": "bf3bd4665cbc239337bfc4593a07cbe4af6a10f9b351f3d671bcc3688db02eea",
+      "packed_bytes": 150555,
+      "packed_crc32": 1106671581,
+      "packed_sha256": "4d8c5fb1ad7f56ded258f9c86d21cc5bbfb1cb1f0cd7e8888a2c9b17cd926835"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p24.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p24-16fac690f2ed.png.lzma2",
+      "bytes": 152429,
+      "crc32": 2720403721,
+      "sha256": "16fac690f2ed80db2daa4a745fd4165ec7f2f31d519f6bd539e499314972cfdb",
+      "packed_bytes": 149395,
+      "packed_crc32": 1006342550,
+      "packed_sha256": "071a21fa72cf96ae9455ac6a8f99757af295e8ffcc6027c67a9af7b1e5e9a5a5"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p25.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p25-5fc0f0ba5a47.png.lzma2",
+      "bytes": 152398,
+      "crc32": 1647939311,
+      "sha256": "5fc0f0ba5a4752ab0eea5a4b30588c060ca96deadc0495c5debdc1178ff2c1dc",
+      "packed_bytes": 149291,
+      "packed_crc32": 2113352177,
+      "packed_sha256": "fd0f05441c8462f5a8e1028778c466a489dfbd1ee2827fb996d376eebc585eef"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p26.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p26-3d9934ed6dd9.png.lzma2",
+      "bytes": 152290,
+      "crc32": 128692890,
+      "sha256": "3d9934ed6dd92e22a1c356406e7475eae49d8898e47a5cd0cd21066126adaca3",
+      "packed_bytes": 149225,
+      "packed_crc32": 1316467163,
+      "packed_sha256": "828d2783aa584792510fe272b549a12a1eac824391d4f79287d6fafe6394fd5c"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p27.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p27-b204c995883c.png.lzma2",
+      "bytes": 148768,
+      "crc32": 469916582,
+      "sha256": "b204c995883c236dc6534e1b6b87e95eb716a863a5a3adbce0953e83cdea2c5b",
+      "packed_bytes": 145597,
+      "packed_crc32": 3468327027,
+      "packed_sha256": "601eeb8d5dc2633cf620fd365beddd7d3acb86eabac64a032740e87b3c0efcbd"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p28.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p28-90608b927cfb.png.lzma2",
+      "bytes": 128357,
+      "crc32": 958319730,
+      "sha256": "90608b927cfb27ad18854f2912bc790468a16c0923fe6d86bf9cc39256f66d19",
+      "packed_bytes": 124331,
+      "packed_crc32": 3835344408,
+      "packed_sha256": "aeecc7d16339c93c122bbb7093a658829de55e69b7fcdfd6b88a44eb1d6086b1"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p29.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p29-fd7121a954d9.png.lzma2",
+      "bytes": 149266,
+      "crc32": 2512894456,
+      "sha256": "fd7121a954d97deac86bd37da7c5d0dfa8f6d4ad3da4447390e1e34c1e436606",
+      "packed_bytes": 146104,
+      "packed_crc32": 1287692162,
+      "packed_sha256": "2d9daf932798d0d72bd027af573f4692cee6f22c7988a52bddb23f0e14447fe7"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p30.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p30-2328c23f63e8.png.lzma2",
+      "bytes": 129649,
+      "crc32": 1436979286,
+      "sha256": "2328c23f63e8d9958aa9dbcc93f02bd1df7639de0f0a1f592a60970d36bd410a",
+      "packed_bytes": 125922,
+      "packed_crc32": 2613907279,
+      "packed_sha256": "8fea6817c47f691f08d5c293420876db917b9e89d018bee002e42f4c855861fb"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p31.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p31-878c5d3de4e0.png.lzma2",
+      "bytes": 157524,
+      "crc32": 2984239071,
+      "sha256": "878c5d3de4e07143d6979374dc295d2c63df457285aa5f29d1b0fc81e25cd4f7",
+      "packed_bytes": 153911,
+      "packed_crc32": 4169805690,
+      "packed_sha256": "608d63db0c2b0252128ebedd5c3a103b70af1dc6aee05a5562178bdf28476df3"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p32.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p32-91741a64df65.png.lzma2",
+      "bytes": 112323,
+      "crc32": 2981041454,
+      "sha256": "91741a64df65771d74635d9594c86d4e8b4d0e45ae867b56e3def9ab937c132f",
+      "packed_bytes": 107797,
+      "packed_crc32": 3785779744,
+      "packed_sha256": "6ac97572eba1d384e6a328555ebcdd67d4800b862b89af07fcc0412a9f64ed5f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p33.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p33-a7a63feda055.png.lzma2",
+      "bytes": 144484,
+      "crc32": 4057850834,
+      "sha256": "a7a63feda0554d7cdeeb88bd40ad0833973cb5d720ed65cdaad8eb78e6c93f12",
+      "packed_bytes": 140462,
+      "packed_crc32": 1410146080,
+      "packed_sha256": "3e560bdba768ad101b3542a6056812422c306d63a4850ad2a9a584b1549efbab"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p34.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p34-61254cf9ed03.png.lzma2",
+      "bytes": 108602,
+      "crc32": 2462822300,
+      "sha256": "61254cf9ed03907938e773ab75ebf841e3fc9eb6da29e69531c6f542df73527c",
+      "packed_bytes": 103745,
+      "packed_crc32": 870381606,
+      "packed_sha256": "8ea4b656f449cbbb822bbc98dd2c24b544473b68d3e842011e7de33550d3bc9f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p35.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p35-9a3e8102307e.png.lzma2",
+      "bytes": 106815,
+      "crc32": 1917803736,
+      "sha256": "9a3e8102307e7e9f52c04d08406eee2e75b8555b8b6f0f34dd85e2774831f01b",
+      "packed_bytes": 101672,
+      "packed_crc32": 462349797,
+      "packed_sha256": "aaac1c60ffe93acecba7401371e034683a2629000782aeebb633cc7e3a27d9ef"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p36.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p36-40890a3bc0a3.png.lzma2",
+      "bytes": 107137,
+      "crc32": 1721590975,
+      "sha256": "40890a3bc0a3b0b99b320884f2c4db4338ebc00a479b2c2bace5d5afb2d31205",
+      "packed_bytes": 102050,
+      "packed_crc32": 3290481396,
+      "packed_sha256": "640c7cdaf24a1ccdff20d8840560ec6ef9bd1135682f391f12030caa7f1da616"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p37.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p37-be6490749cf8.png.lzma2",
+      "bytes": 107497,
+      "crc32": 2052497326,
+      "sha256": "be6490749cf8c4d4cd0b0e5bf47b6ba3774a39c68af181975ed72eb3dc9a39ba",
+      "packed_bytes": 102480,
+      "packed_crc32": 645726105,
+      "packed_sha256": "542c4b6fbb47541f9ebf75a0f16cec0fb783632c11821247a9dbe5ca45fc3a51"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p38.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p38-9d5cca8646af.png.lzma2",
+      "bytes": 106932,
+      "crc32": 3420585771,
+      "sha256": "9d5cca8646afac805b27906abfebe11ddffa7d931757f66709beb51c6c0fbdf4",
+      "packed_bytes": 101763,
+      "packed_crc32": 904275440,
+      "packed_sha256": "7e5f7f872f17e3b303bdf30f4b26531731e20c22ed79766e4606434b06c20738"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p39.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p39-f884a30c7751.png.lzma2",
+      "bytes": 106811,
+      "crc32": 3751973157,
+      "sha256": "f884a30c7751e5a06ec5ccf07ec203f8b76b3489a96daa85bf5018f047d39761",
+      "packed_bytes": 101644,
+      "packed_crc32": 2928681096,
+      "packed_sha256": "8d150601062a4e9f3d8b5b483edd860c4116628a55a1a0dc968cf7cb3234c67f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p40.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p40-d49ad9cf2c83.png.lzma2",
+      "bytes": 107102,
+      "crc32": 2406975859,
+      "sha256": "d49ad9cf2c83180ffe63e9a5a0b6f99b825ec2356fa538543419e20e8ca49c71",
+      "packed_bytes": 101982,
+      "packed_crc32": 1579124738,
+      "packed_sha256": "b800b3ffc883cf8d9583e0932ca5ae9cd9642b71c013648cc4831428908a99ee"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p41.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p41-9cf356052090.png.lzma2",
+      "bytes": 106789,
+      "crc32": 2396900236,
+      "sha256": "9cf35605209021f148a881d210a495f8d59130f029193c9ede0150f1b80f94c0",
+      "packed_bytes": 101595,
+      "packed_crc32": 1824512499,
+      "packed_sha256": "5023a4bd776ab6c43f492281c962eb688de4c89ae03237b6c00ff4ccbcafa5e8"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p42.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p42-073002c3a65b.png.lzma2",
+      "bytes": 106795,
+      "crc32": 4100540456,
+      "sha256": "073002c3a65b0f202e91c72f812aa65519d603ba70098cb407e2519d1cd0221e",
+      "packed_bytes": 101637,
+      "packed_crc32": 781338729,
+      "packed_sha256": "2ded549aa3d4731a88520f6efcb74d9814a14c226b4206482adfe0157e061452"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p43.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p43-b61010225ef4.png.lzma2",
+      "bytes": 106800,
+      "crc32": 3963891782,
+      "sha256": "b61010225ef43806aa2aa55cdb67c6cf09ec77fb2a188c1b70b0a90cd5477c00",
+      "packed_bytes": 101642,
+      "packed_crc32": 2140288408,
+      "packed_sha256": "a10337506ac46a579a004178b956ae59d220ce65b642447af3cef8dddd1ba925"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p44.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p44-b61010225ef4.png.lzma2",
+      "bytes": 106800,
+      "crc32": 3963891782,
+      "sha256": "b61010225ef43806aa2aa55cdb67c6cf09ec77fb2a188c1b70b0a90cd5477c00",
+      "packed_bytes": 101642,
+      "packed_crc32": 2140288408,
+      "packed_sha256": "a10337506ac46a579a004178b956ae59d220ce65b642447af3cef8dddd1ba925"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p45.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p45-b61010225ef4.png.lzma2",
+      "bytes": 106800,
+      "crc32": 3963891782,
+      "sha256": "b61010225ef43806aa2aa55cdb67c6cf09ec77fb2a188c1b70b0a90cd5477c00",
+      "packed_bytes": 101642,
+      "packed_crc32": 2140288408,
+      "packed_sha256": "a10337506ac46a579a004178b956ae59d220ce65b642447af3cef8dddd1ba925"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p46.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p46-b61010225ef4.png.lzma2",
+      "bytes": 106800,
+      "crc32": 3963891782,
+      "sha256": "b61010225ef43806aa2aa55cdb67c6cf09ec77fb2a188c1b70b0a90cd5477c00",
+      "packed_bytes": 101642,
+      "packed_crc32": 2140288408,
+      "packed_sha256": "a10337506ac46a579a004178b956ae59d220ce65b642447af3cef8dddd1ba925"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p47.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p47-33ed1779b819.png.lzma2",
+      "bytes": 137971,
+      "crc32": 980359021,
+      "sha256": "33ed1779b8198fdf4589217cafd8c01801f95f0b378bb18d23717ac2cef5aa8f",
+      "packed_bytes": 134683,
+      "packed_crc32": 1765228089,
+      "packed_sha256": "754256063cf843f95e3f9bd861cd1522db98021c331a7010c0e8fe83ed8269c3"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p48.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p48-ed07af521223.png.lzma2",
+      "bytes": 82941,
+      "crc32": 856901113,
+      "sha256": "ed07af5212237eed21afb59873d44c9524168841ece4d3fdd213e03e97e5cd24",
+      "packed_bytes": 78916,
+      "packed_crc32": 1078165214,
+      "packed_sha256": "a0f0c2162744339f70885e1ba9c00d2fcac54fb818410cdcb41243cc697a54ec"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p49.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p49-f1952136a7b7.png.lzma2",
+      "bytes": 49524,
+      "crc32": 3438897600,
+      "sha256": "f1952136a7b76774933804dd3ee624a96c2b5d8a5c47945aa782e1a1d44e9e32",
+      "packed_bytes": 45334,
+      "packed_crc32": 1561421818,
+      "packed_sha256": "dc4f3683861569a89f7a86d2bdf0f549c80ead373309458b0671d5fabfeaff1f"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p50.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p50-95719b8ea89c.png.lzma2",
+      "bytes": 43579,
+      "crc32": 2745606735,
+      "sha256": "95719b8ea89cfb5e40fdb058e68b4210988287d8b8846a0a366f1843a8a02582",
+      "packed_bytes": 39163,
+      "packed_crc32": 2299104399,
+      "packed_sha256": "97af38dc1ce4c67069ad6af0619fb8fc8fca35f2662f6eb74291fb76abb9dee8"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p51.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p51-0cf30786a0d9.png.lzma2",
+      "bytes": 60279,
+      "crc32": 2571479222,
+      "sha256": "0cf30786a0d934d5bfcd32ec8cb4d3246cbd387da98dfe940b2e85ca37145b45",
+      "packed_bytes": 56769,
+      "packed_crc32": 1496458328,
+      "packed_sha256": "4f6171f843890f69f46583edec1e06e2d758840e5dba0fe27636de8d70f73db0"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p52.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p52-df9a1500cfb4.png.lzma2",
+      "bytes": 80167,
+      "crc32": 977329723,
+      "sha256": "df9a1500cfb4f797c5cc2850ac7f8fdc4891094165e2881b26f9b31df00839ad",
+      "packed_bytes": 76445,
+      "packed_crc32": 3736256978,
+      "packed_sha256": "f8143e1f0abc7ad0889f2199170c0273d792d4a875a43ddccd27d71060ab108a"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p53.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p53-ed6689dd3a6e.png.lzma2",
+      "bytes": 72471,
+      "crc32": 3419339215,
+      "sha256": "ed6689dd3a6e9690bd374b1a72db3d2b43ed14602c205a043b6a69be4b574422",
+      "packed_bytes": 68338,
+      "packed_crc32": 2748451381,
+      "packed_sha256": "897e020b20f90df2bba6795a3b996c04441eaf4c2a4426fe1585eb1c620bd470"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p54.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p54-18b682b37111.png.lzma2",
+      "bytes": 20516,
+      "crc32": 3491224313,
+      "sha256": "18b682b37111eaff7969e5dba25f08ea79b7d9b1cdd4a160651f8f8ff1291f07",
+      "packed_bytes": 17924,
+      "packed_crc32": 2479421529,
+      "packed_sha256": "ac4e0a944ef3d9963a82531b648b21195188f421e8cff1271054330d6c6d3118"
+    },
+    {
+      "logical_name": "kill-effect/valorant/21_6k-p55.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/21_6k-p55-97ebcfff0e2a.png.lzma2",
+      "bytes": 3129,
+      "crc32": 857523957,
+      "sha256": "97ebcfff0e2a217cc76c3933ef5b093be196d21bbae616ddf974f9471f8cf4f4",
+      "packed_bytes": 108,
+      "packed_crc32": 2641691590,
+      "packed_sha256": "8611a47bb75c850c253b4d786fd2322c7dd701d83f25ecdb68cc04f6da2a83ef"
+    }
+  ]
+}
