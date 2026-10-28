@@ -1,0 +1,32 @@
+{
+  "valorant": [
+    {
+      "name": "2021 Vandal",
+      "id": "2021-vandal",
+      "manifest": "cheatgpt/v1/kill-effect/valorant/collections/2021-vandal/manifest.json",
+      "stages": 6
+    },
+    {
+      "name": "Recon",
+      "id": "recon",
+      "manifest": "cheatgpt/v1/kill-effect/valorant/collections/recon/manifest.json",
+      "stages": 6
+    },
+    {
+      "name": "Rogue",
+      "id": "rogue",
+      "manifest": "cheatgpt/v1/kill-effect/valorant/collections/rogue/manifest.json",
+      "stages": 6
+    },
+    {
+      "name": "Singularity",
+      "id": "singularity",
+      "manifest": "cheatgpt/v1/kill-effect/valorant/collections/singularity/manifest.json",
+      "stages": 6
+    }
+  ],
+  "battlefield1": [
+    "cheatgpt/v1/kill-effect/battlefield1/killsound-fce8c8b55a46.mp3.lzma2",
+    "cheatgpt/v1/kill-effect/battlefield1/skull-4b83e0416301.png.lzma2"
+  ]
+}
