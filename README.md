@@ -25,7 +25,9 @@ The three combined source videos were supplied in `VL.zip`. Source hashes and 30
 
 Every resource is a raw LZMA2 stream with a 1 MiB dictionary. PNGs use LZMA2 uncompressed blocks because PNG already compresses its image data; this avoids expensive redundant Lua decoding. Audio/fonts use compressed LZMA2 blocks. Both packed and decoded sizes/checksums are verified by the client, which pins a full Git commit and caches decoded files locally.
 
-Each stage uses one immutable atlas during playback. Only the selected collection's current and next stage are prepared; switching collections releases old image/sound instances. Kill counts persist through collection changes, reset on death, and counts above six use stage six.
+Each stage uses one immutable atlas during playback. While Valorant Kill Effect is enabled, the client preloads all six atlas/sound pairs for each collection with at most two concurrent registration jobs. Existing decoded cache files are validated and reused; only missing or invalid files are downloaded. Per-collection registered URIs and sound objects remain reusable across selection changes and respawns.
+
+GPU preparation is bounded: the next applicable kill stage for every collection plus the current foreground (or selected idle lookahead), at most five atlas views for the four collections. This avoids keeping all 24 full atlases resident. Selecting Collection Style does not stop or replay the current banner; the next kill captures the new selection and immediately uses its warm view and sound when ready. Cold or evicted resources can still require engine decoding. Kill counts persist through collection changes, reset on death, and counts above six use stage six.
 
 Legacy multi-page Valorant files remain at their original content-addressed paths. They are marked `legacy` in the inventory, not deleted or moved, so earlier pinned clients remain reproducible. Do not overwrite hashed resource files with different bytes. Add new files and update manifests instead.
 
