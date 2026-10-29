@@ -32,3 +32,25 @@ GPU preparation is bounded: the next applicable kill stage for every collection 
 Legacy multi-page Valorant files remain at their original content-addressed paths. They are marked `legacy` in the inventory, not deleted or moved, so earlier pinned clients remain reproducible. Do not overwrite hashed resource files with different bytes. Add new files and update manifests instead.
 
 Source media was supplied for this project. This repository does not claim ownership of third-party artwork, sounds or fonts.
+
+## Lossless cache compaction (2026-10-29)
+
+The 24 current Valorant atlases have been recompressed offline with oxipng 9.1.1
+(level 6, libdeflater 12). Dimensions, RGBA bytes including fully transparent RGB,
+color type, bit depth, all 2,870 frame rectangles, timings and sounds are unchanged.
+No palette quantization, alpha optimization, resizing, frame removal or runtime
+image recompression is used. Atlas PNG bytes fall from 89,319,193 to 87,191,711
+(2,127,482 bytes saved). Old content-addressed files remain available to pinned clients.
+
+The updated client accepts the exact previous PNG size/CRC, so existing caches
+remain immediately playable while a single low-priority worker upgrades the same
+local filenames. Compaction waits while a Valorant banner is active; all four
+collections keep their existing preload, registered-URI and GPU warm-view policy.
+Decoded PNGs remain directly usable by the engine; no compressed cache or backup
+copy is added on disk. Failed writes attempt to restore the previous bytes from RAM.
+
+After a Vandal atlas registers, the client can reclaim that stage's obsolete HQ2
+page PNGs using an explicit filename/size/CRC allowlist (183 pages, at most
+22,873,921 bytes). No directory scan or wildcard deletion is used. Current atlases,
+sounds, fonts, user files, configurations and statistics are excluded. Missing
+`delfile` support skips cleanup. These savings depend on which legacy files exist.

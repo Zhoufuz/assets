@@ -177,7 +177,7 @@
       "packed_bytes": 1070942,
       "packed_crc32": 1532490070,
       "packed_sha256": "288cc09f10138648ee2c4d4989dd4accbbc40a5c80c4ab0c1b80772776124dae",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant-atlas/21_2k-atlas-f6517c599281.png",
@@ -188,7 +188,7 @@
       "packed_bytes": 1766714,
       "packed_crc32": 2814461974,
       "packed_sha256": "04bd3d2b599af693679661b9fbb3e55883260f4ae6360a2a191b195d1ce03a54",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant-atlas/21_3k-atlas-1779bcc672dc.png",
@@ -199,7 +199,7 @@
       "packed_bytes": 2028482,
       "packed_crc32": 2279693040,
       "packed_sha256": "cd8626e492679a54b138a9f6f6eab3f9c5293b1dad73c71b383183aafac8105f",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant-atlas/21_4k-atlas-993631cd9e00.png",
@@ -210,7 +210,7 @@
       "packed_bytes": 2417691,
       "packed_crc32": 2686808898,
       "packed_sha256": "d8cd7f5ea3d29fcee0b93d8bd29acc7d6e032b6ed18feda3fd494b5d3b7f699f",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant-atlas/21_5k-atlas-d2daf99c1b77.png",
@@ -221,7 +221,7 @@
       "packed_bytes": 6485609,
       "packed_crc32": 1669346052,
       "packed_sha256": "456efd796709e077adf39094bc549a3a0b920a0aa372de3cdbf203dbb351ca60",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant-atlas/21_6k-atlas-04cf727ff6db.png",
@@ -232,7 +232,7 @@
       "packed_bytes": 6577343,
       "packed_crc32": 12985690,
       "packed_sha256": "dfaab39e707ff6db40edc206139d2c33656ad7bd74a4db06518cf81ec2eec7b3",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/21_1k.mp3",
@@ -309,7 +309,7 @@
       "packed_bytes": 1176429,
       "packed_crc32": 416009574,
       "packed_sha256": "9c12746a21a3aaac96aef07502b1100f21791aed31c1387235a394f6ead395e0",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/recon/1k-sound.mp3",
@@ -331,7 +331,7 @@
       "packed_bytes": 1854790,
       "packed_crc32": 2694844285,
       "packed_sha256": "ca9df40966b13de11df96f5a0f8086f77451eeda21f6794d1331ed98779607b6",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/recon/2k-sound.mp3",
@@ -353,7 +353,7 @@
       "packed_bytes": 1950051,
       "packed_crc32": 2838195799,
       "packed_sha256": "b2ecc088a1e10d372df51de1f185829e241161be2fbc2a1506251bae73905929",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/recon/3k-sound.mp3",
@@ -375,7 +375,7 @@
       "packed_bytes": 2519298,
       "packed_crc32": 1695640323,
       "packed_sha256": "a1661331646a286e47e3fd4ae37cd6f6b0a1aa450a1373bd3c789cf1ff01719d",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/recon/4k-sound.mp3",
@@ -397,7 +397,7 @@
       "packed_bytes": 8154856,
       "packed_crc32": 3073295517,
       "packed_sha256": "6ab13bb5e6ff2730ec823f887704f6c1c175c2369577778f80b60a3473fbbee6",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/recon/5k-sound.mp3",
@@ -419,7 +419,7 @@
       "packed_bytes": 7761954,
       "packed_crc32": 3414340441,
       "packed_sha256": "f57e30c068c1199744459dbb9acc14dce820f1e85f8276b4a43137ff2b5430bd",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/recon/6k-sound.mp3",
@@ -441,7 +441,7 @@
       "packed_bytes": 1116047,
       "packed_crc32": 1360206178,
       "packed_sha256": "9dbd7bea9147308389914b9ea9cd26c26ec5072b10f0ec89ed46f8f99b3df7fd",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/rogue/1k-sound.mp3",
@@ -463,7 +463,7 @@
       "packed_bytes": 2050512,
       "packed_crc32": 1506024680,
       "packed_sha256": "adde62193c52f318418387f7eed38cf800d3af717ee8ddb3245ab4f38cf13eee",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/rogue/2k-sound.mp3",
@@ -485,7 +485,7 @@
       "packed_bytes": 2247001,
       "packed_crc32": 2519803462,
       "packed_sha256": "9f2304444f9c2ce7fd87a83e185edc7ff2cfaa16f61c19e2608592bcb46be314",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/rogue/3k-sound.mp3",
@@ -507,7 +507,7 @@
       "packed_bytes": 2465693,
       "packed_crc32": 3795869944,
       "packed_sha256": "c20f10465d95ebe61af8c6b6755dc41c78b43ccd18f2feae91e573e8d2acbf22",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/rogue/4k-sound.mp3",
@@ -529,7 +529,7 @@
       "packed_bytes": 7863989,
       "packed_crc32": 3118731428,
       "packed_sha256": "061fb0bb5f0d558fe1d801f7a37ad109728f838c7a9a6e060d2cb17c815d9ccb",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/rogue/5k-sound.mp3",
@@ -551,7 +551,7 @@
       "packed_bytes": 7965979,
       "packed_crc32": 757477266,
       "packed_sha256": "a07e6b1591b8ea9de442402c247ce55f510fa4fd0feee8027e24065fb3839048",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/rogue/6k-sound.mp3",
@@ -573,7 +573,7 @@
       "packed_bytes": 1044610,
       "packed_crc32": 1330598344,
       "packed_sha256": "77e464f01589e839cc662ebc6bea8631932eb42c67a33e9e317c1246c998b4b8",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/singularity/1k-sound.mp3",
@@ -595,7 +595,7 @@
       "packed_bytes": 1948629,
       "packed_crc32": 3878409778,
       "packed_sha256": "2da1fc8aa8b7aa8c979949ece25533de8855c80e106862339dbd032a594fac7b",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/singularity/2k-sound.mp3",
@@ -617,7 +617,7 @@
       "packed_bytes": 2151322,
       "packed_crc32": 210360915,
       "packed_sha256": "6a70454dc2feeb5492630c5ca8f6acf7484a0f9b278433e6b0a5f6d95adeb26d",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/singularity/3k-sound.mp3",
@@ -639,7 +639,7 @@
       "packed_bytes": 2308232,
       "packed_crc32": 2562259528,
       "packed_sha256": "86f023ddcaed709adda97a52aca1b57d537cbcfe4c17a301b7d3270ab25dcf88",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/singularity/4k-sound.mp3",
@@ -661,7 +661,7 @@
       "packed_bytes": 7035423,
       "packed_crc32": 1018367638,
       "packed_sha256": "f54443bc34bea6ebc997d4f97d5b3b92863edbbc16decaa56a0724221ae0ea7b",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/singularity/5k-sound.mp3",
@@ -683,7 +683,7 @@
       "packed_bytes": 7361740,
       "packed_crc32": 3109128353,
       "packed_sha256": "005b8d60b94d1c40d5b18f455bd1c80f95448c1866d2026b73d3506a3783d3cf",
-      "status": "active"
+      "status": "legacy"
     },
     {
       "logical_name": "kill-effect/valorant/singularity/6k-sound.mp3",
@@ -2708,6 +2708,270 @@
       "packed_crc32": 2804103614,
       "packed_sha256": "90e137e97a8b9923ffe3f8dcaa70aead6f103f21791bdb3b51356c2ba2208b67",
       "status": "legacy"
+    },
+    {
+      "logical_name": "kill-effect/valorant-atlas/21_1k-atlas-666af5fe7ace.png",
+      "path": "cheatgpt/v1/kill-effect/valorant-atlas/21_1k-atlas-4a00082469af.png.lzma2",
+      "bytes": 980563,
+      "crc32": 1556304608,
+      "sha256": "4a00082469af6f36cd7b409372dbd8d951ce4661691360219ed561911f726008",
+      "packed_bytes": 980609,
+      "packed_crc32": 3766302786,
+      "packed_sha256": "d0804ca9ffff348187f65411b5c6c3beafa4d07f9599049c1b254937d5897cc6",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant-atlas/21_2k-atlas-f6517c599281.png",
+      "path": "cheatgpt/v1/kill-effect/valorant-atlas/21_2k-atlas-811ca5142d72.png.lzma2",
+      "bytes": 1718060,
+      "crc32": 3068275973,
+      "sha256": "811ca5142d72236a1906959cef003340905bdd4bcb8cede6711514cd232b0cb6",
+      "packed_bytes": 1718142,
+      "packed_crc32": 174572544,
+      "packed_sha256": "ec78363e284443e0377a30b7818d5f07f22a840c38d7fedd55f15461b9103273",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant-atlas/21_3k-atlas-1779bcc672dc.png",
+      "path": "cheatgpt/v1/kill-effect/valorant-atlas/21_3k-atlas-1d43059a6e64.png.lzma2",
+      "bytes": 1982656,
+      "crc32": 3891484253,
+      "sha256": "1d43059a6e64decfb1c18e41e541949a5800defb56da65c04c1b09234c16a6c2",
+      "packed_bytes": 1982750,
+      "packed_crc32": 3885388355,
+      "packed_sha256": "68ddf4f76a0e799aefeb3e2cd75e24f72faf4c3cbd35d1415baddee78aadea57",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant-atlas/21_4k-atlas-993631cd9e00.png",
+      "path": "cheatgpt/v1/kill-effect/valorant-atlas/21_4k-atlas-83a007a17f38.png.lzma2",
+      "bytes": 2379913,
+      "crc32": 1157111053,
+      "sha256": "83a007a17f38f23f64dfed249523a1431d247b4cfb0e34fb021a9b08e5165271",
+      "packed_bytes": 2380025,
+      "packed_crc32": 2446078258,
+      "packed_sha256": "bbce31f2ec9ad8728e4c5e6324b4aa025a891e5cdc7a7985b546ce6ab6868d8a",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant-atlas/21_5k-atlas-d2daf99c1b77.png",
+      "path": "cheatgpt/v1/kill-effect/valorant-atlas/21_5k-atlas-5c84e2d37e76.png.lzma2",
+      "bytes": 6406204,
+      "crc32": 1506816537,
+      "sha256": "5c84e2d37e76168dfdcdc2f466e50483cc7802b05ea84d27fc242c5afdf02b5e",
+      "packed_bytes": 6406499,
+      "packed_crc32": 3829181709,
+      "packed_sha256": "0282d491f3933901648df9d9317db13cb73838e5e33c53b987a74573091998ce",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant-atlas/21_6k-atlas-04cf727ff6db.png",
+      "path": "cheatgpt/v1/kill-effect/valorant-atlas/21_6k-atlas-5e57cd5295fb.png.lzma2",
+      "bytes": 6464621,
+      "crc32": 1932173093,
+      "sha256": "5e57cd5295fb445283a8f2b3a9d80c99e6c970d2bc2f4f283d1ff80179613dda",
+      "packed_bytes": 6464919,
+      "packed_crc32": 2896745141,
+      "packed_sha256": "35bc566e3dabb1dc27029aa5f68aa2ac5a033407042909ed83ad7e8d7218746f",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/recon/1k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/recon/1k-atlas-d5c5a9d320f6.png.lzma2",
+      "bytes": 1110596,
+      "crc32": 4111726212,
+      "sha256": "d5c5a9d320f6ade94e9c6885433b00031fe5690a11185713f59af8745faf1540",
+      "packed_bytes": 1110648,
+      "packed_crc32": 796054998,
+      "packed_sha256": "1bcbaa60c478dc1f3a60362ea63df82a48638e56cc02f20b8e7dca01768b170d",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/recon/2k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/recon/2k-atlas-c70ae099b147.png.lzma2",
+      "bytes": 1791702,
+      "crc32": 4072482978,
+      "sha256": "c70ae099b147f92b19fa9d5e3c7357c3d845e7fe2a1d657018e247386b013b11",
+      "packed_bytes": 1791787,
+      "packed_crc32": 182558559,
+      "packed_sha256": "5aba6e8d51aaea9b58e8fc6c1ebab0ef5c9b18bd912b0db61bdbc50f07ee3975",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/recon/3k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/recon/3k-atlas-5c3f04fa4233.png.lzma2",
+      "bytes": 1897652,
+      "crc32": 1497664243,
+      "sha256": "5c3f04fa4233d150978dc255255185f9d119a83806c400000ee0bdf163ace43c",
+      "packed_bytes": 1897740,
+      "packed_crc32": 341922708,
+      "packed_sha256": "4fcc3039cdbeaab01dd77a4182b3b213b3052efde043741d76e172e3cf143fbe",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/recon/4k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/recon/4k-atlas-32fa2af7f1c8.png.lzma2",
+      "bytes": 2472100,
+      "crc32": 129940721,
+      "sha256": "32fa2af7f1c8d09a635c0b3ccb2a1ae3f91440579b6cbbbcebee9c7d080982ff",
+      "packed_bytes": 2472215,
+      "packed_crc32": 1561836489,
+      "packed_sha256": "7a37c4958080c68d891e959d3ef31ffc7fccb71cf71d782caecf4c1e00a141c2",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/recon/5k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/recon/5k-atlas-36e72a2a9c93.png.lzma2",
+      "bytes": 8033095,
+      "crc32": 3388668315,
+      "sha256": "36e72a2a9c93d06bc801c52070d48015cf4db903d0c7563b97a808d8a45f7ad7",
+      "packed_bytes": 8033465,
+      "packed_crc32": 4018899489,
+      "packed_sha256": "719f0359e38922642b0bc830d6d3cd7fd896fd8fc70db5fd848c874e348ac369",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/recon/6k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/recon/6k-atlas-91d6f8061e25.png.lzma2",
+      "bytes": 7569575,
+      "crc32": 2542907600,
+      "sha256": "91d6f8061e251b4d50aa49bcc432209042cfb89cab63e7fb1562988f355acb14",
+      "packed_bytes": 7569924,
+      "packed_crc32": 535935277,
+      "packed_sha256": "2db2e228cf261d6d6bdbbf9869016f284c288d3aa0b06b81fe91d4e428bcc106",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/rogue/1k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/1k-atlas-21916fe31696.png.lzma2",
+      "bytes": 997844,
+      "crc32": 2863467884,
+      "sha256": "21916fe31696380d3d78e56ffb1c20f4760a12557b467c109209743db7770fbb",
+      "packed_bytes": 997893,
+      "packed_crc32": 1043100376,
+      "packed_sha256": "070fe607f359a63a8f901122dbad10e679b81c563d7baa28ae3fd18f5b502652",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/rogue/2k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/2k-atlas-ed1c87fc7b62.png.lzma2",
+      "bytes": 1955441,
+      "crc32": 1356895873,
+      "sha256": "ed1c87fc7b62780294f3a607baf134706f2a6151fb532bd49882272b385bb6a0",
+      "packed_bytes": 1955532,
+      "packed_crc32": 542991561,
+      "packed_sha256": "4caa1894baf390b01778a3a992b4f5920ace0f84bcc52e433bdf0076be86ec54",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/rogue/3k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/3k-atlas-670cb9230f8d.png.lzma2",
+      "bytes": 2167207,
+      "crc32": 569258079,
+      "sha256": "670cb9230f8ddb9c0917b0a4c9e6e6213292329c5e37379a054a16fb38d7cb5c",
+      "packed_bytes": 2167310,
+      "packed_crc32": 1167241201,
+      "packed_sha256": "1bb6a3fc57951ea921f3c051934000a0e4d12f8c9876a56eed67a7c46914367c",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/rogue/4k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/4k-atlas-bf782e1e3c1d.png.lzma2",
+      "bytes": 2414615,
+      "crc32": 4124291339,
+      "sha256": "bf782e1e3c1d72c494ea3c13751e48bed70e2ee7d926a6ec6270d1840e3cf6c4",
+      "packed_bytes": 2414727,
+      "packed_crc32": 4122409367,
+      "packed_sha256": "7a81b519b0ec54ea561442b2a2c7ecdcb4df981a86e5ec4ca5ea0b8f864e4a6b",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/rogue/5k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/5k-atlas-907ab4c7066b.png.lzma2",
+      "bytes": 7711651,
+      "crc32": 2514367033,
+      "sha256": "907ab4c7066b6953b97f3f3add654293c75d58bd5fd7dee7fc8f91fd7c2eb53c",
+      "packed_bytes": 7712006,
+      "packed_crc32": 460352535,
+      "packed_sha256": "48b543e1d4592a463037bfdb9aac5d1a60150d6793ae70b64b814b93d8a32072",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/rogue/6k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/6k-atlas-9af109e3c59d.png.lzma2",
+      "bytes": 7834032,
+      "crc32": 1528479140,
+      "sha256": "9af109e3c59dec7a390c9e773a007776ffadf3a22ba3dceeebaaf2ed550f50b6",
+      "packed_bytes": 7834393,
+      "packed_crc32": 2345938029,
+      "packed_sha256": "f621cc9583e6733aaf794859d4638ade87bdede8b64123600b68aa6ef1abdd65",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/singularity/1k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/1k-atlas-88574e5aed4d.png.lzma2",
+      "bytes": 930806,
+      "crc32": 1833579601,
+      "sha256": "88574e5aed4d784442c1f84a641a479e3124d1ff79c1122e77738b1ed9303abe",
+      "packed_bytes": 930852,
+      "packed_crc32": 3062567556,
+      "packed_sha256": "3a8c553c2ce968389c16556dcff52a04575764a692a9bb5dd53f3a6348a76e53",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/singularity/2k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/2k-atlas-a25907076edc.png.lzma2",
+      "bytes": 1884702,
+      "crc32": 1994406045,
+      "sha256": "a25907076edc82a59e2d9d027e685e403257a4c527bf7628ee26f2565fb7faec",
+      "packed_bytes": 1884790,
+      "packed_crc32": 2670673280,
+      "packed_sha256": "0ea0de22d3d303a1e21f6076124d77db97e9f6c87402e415e34d54751d061570",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/singularity/3k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/3k-atlas-f44e9b3d8ae8.png.lzma2",
+      "bytes": 2108955,
+      "crc32": 3047358181,
+      "sha256": "f44e9b3d8ae81798235f04652e2c3be8a48e7f602517088e01963cb35cbdcdba",
+      "packed_bytes": 2109055,
+      "packed_crc32": 872712878,
+      "packed_sha256": "3629061de6c2aa124eeab9d0da51e2ea02b3ff726a629f63ccc9ee02d79cc7a1",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/singularity/4k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/4k-atlas-29abe4422efd.png.lzma2",
+      "bytes": 2270581,
+      "crc32": 322206313,
+      "sha256": "29abe4422efdade0c84aa4b8a7372ce9c805ec314b3a1ca6b2bfb4dcbb88e735",
+      "packed_bytes": 2270687,
+      "packed_crc32": 367767680,
+      "packed_sha256": "ef840853146c5ee15fb9969b4f96489f0802b0a4e20d5e655b3708fbbee0bb88",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/singularity/5k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/5k-atlas-c65ac6ac560f.png.lzma2",
+      "bytes": 6860054,
+      "crc32": 16370639,
+      "sha256": "c65ac6ac560fb64e9c921f7ef8deca65bdfb9871a9b61555ab00c17b7f6a0099",
+      "packed_bytes": 6860370,
+      "packed_crc32": 1564678262,
+      "packed_sha256": "0d216acf4dcc85726d7ae34352e1ef4cd7c9a6a7c1091783e56516ec2bfef6e1",
+      "status": "active"
+    },
+    {
+      "logical_name": "kill-effect/valorant/singularity/6k-atlas.png",
+      "path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/6k-atlas-a12c55e57bb5.png.lzma2",
+      "bytes": 7249086,
+      "crc32": 2996527057,
+      "sha256": "a12c55e57bb53c7ff4b61183a3fafea3dee9ef9cccb98b9b7e90270a39feef92",
+      "packed_bytes": 7249420,
+      "packed_crc32": 3719474051,
+      "packed_sha256": "1f8043f5e9510a9f9f0c335fec2c60bba9965cb9b09e99e7c67c22aa2902dd5e",
+      "status": "active"
     }
   ],
   "status_policy": "active: referenced by the current client; legacy: retained at immutable paths for earlier clients"

@@ -13,11 +13,13 @@
       "AtlasWidth": 1024,
       "AtlasHeight": 2048,
       "Atlas": {
-        "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/1k-atlas-eafdae1eeb5b.png.lzma2",
-        "Size": 1115992,
-        "CRC32": 3842814485,
-        "PackedSize": 1116047,
-        "PackedCRC32": 1360206178
+        "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/1k-atlas-21916fe31696.png.lzma2",
+        "Size": 997844,
+        "CRC32": 2863467884,
+        "PackedSize": 997893,
+        "PackedCRC32": 1043100376,
+        "PreviousSize": 1115992,
+        "PreviousCRC32": 3842814485
       },
       "Sound": {
         "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/1k-sound-3f0432df58b3.mp3.lzma2",
@@ -579,11 +581,13 @@
       "AtlasWidth": 2048,
       "AtlasHeight": 2048,
       "Atlas": {
-        "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/2k-atlas-6c491406e84b.png.lzma2",
-        "Size": 2050415,
-        "CRC32": 3912477363,
-        "PackedSize": 2050512,
-        "PackedCRC32": 1506024680
+        "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/2k-atlas-ed1c87fc7b62.png.lzma2",
+        "Size": 1955441,
+        "CRC32": 1356895873,
+        "PackedSize": 1955532,
+        "PackedCRC32": 542991561,
+        "PreviousSize": 2050415,
+        "PreviousCRC32": 3912477363
       },
       "Sound": {
         "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/2k-sound-aa69b04a30e9.mp3.lzma2",
@@ -1145,11 +1149,13 @@
       "AtlasWidth": 2048,
       "AtlasHeight": 2048,
       "Atlas": {
-        "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/3k-atlas-b68aa9ace775.png.lzma2",
-        "Size": 2246895,
-        "CRC32": 716003440,
-        "PackedSize": 2247001,
-        "PackedCRC32": 2519803462
+        "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/3k-atlas-670cb9230f8d.png.lzma2",
+        "Size": 2167207,
+        "CRC32": 569258079,
+        "PackedSize": 2167310,
+        "PackedCRC32": 1167241201,
+        "PreviousSize": 2246895,
+        "PreviousCRC32": 716003440
       },
       "Sound": {
         "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/3k-sound-29c38906f494.mp3.lzma2",
@@ -1719,11 +1725,13 @@
       "AtlasWidth": 2048,
       "AtlasHeight": 2048,
       "Atlas": {
-        "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/4k-atlas-029a9e42d316.png.lzma2",
-        "Size": 2465578,
-        "CRC32": 258849810,
-        "PackedSize": 2465693,
-        "PackedCRC32": 3795869944
+        "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/4k-atlas-bf782e1e3c1d.png.lzma2",
+        "Size": 2414615,
+        "CRC32": 4124291339,
+        "PackedSize": 2414727,
+        "PackedCRC32": 4122409367,
+        "PreviousSize": 2465578,
+        "PreviousCRC32": 258849810
       },
       "Sound": {
         "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/4k-sound-8ca8de653669.mp3.lzma2",
@@ -2285,11 +2293,13 @@
       "AtlasWidth": 2560,
       "AtlasHeight": 4096,
       "Atlas": {
-        "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/5k-atlas-62d7f24f574f.png.lzma2",
-        "Size": 7863628,
-        "CRC32": 2630098784,
-        "PackedSize": 7863989,
-        "PackedCRC32": 3118731428
+        "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/5k-atlas-907ab4c7066b.png.lzma2",
+        "Size": 7711651,
+        "CRC32": 2514367033,
+        "PackedSize": 7712006,
+        "PackedCRC32": 460352535,
+        "PreviousSize": 7863628,
+        "PreviousCRC32": 2630098784
       },
       "Sound": {
         "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/5k-sound-d70c109eb1f9.mp3.lzma2",
@@ -4123,11 +4133,13 @@
       "AtlasWidth": 2560,
       "AtlasHeight": 4096,
       "Atlas": {
-        "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/6k-atlas-881cb513128c.png.lzma2",
-        "Size": 7965612,
-        "CRC32": 292801205,
-        "PackedSize": 7965979,
-        "PackedCRC32": 757477266
+        "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/6k-atlas-9af109e3c59d.png.lzma2",
+        "Size": 7834032,
+        "CRC32": 1528479140,
+        "PackedSize": 7834393,
+        "PackedCRC32": 2345938029,
+        "PreviousSize": 7965612,
+        "PreviousCRC32": 292801205
       },
       "Sound": {
         "Path": "cheatgpt/v1/kill-effect/valorant/collections/rogue/6k-sound-e3be6de5d765.mp3.lzma2",

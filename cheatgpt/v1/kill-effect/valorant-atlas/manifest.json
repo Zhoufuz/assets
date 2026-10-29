@@ -7,11 +7,13 @@
     "Height": 2048,
     "unique": 43,
     "Atlas": {
-      "Path": "cheatgpt/v1/kill-effect/valorant-atlas/21_1k-atlas-666af5fe7ace.png.lzma2",
-      "Size": 1070890,
-      "CRC32": 2693328533,
-      "PackedSize": 1070942,
-      "PackedCRC32": 1532490070
+      "Path": "cheatgpt/v1/kill-effect/valorant-atlas/21_1k-atlas-4a00082469af.png.lzma2",
+      "Size": 980563,
+      "CRC32": 1556304608,
+      "PackedSize": 980609,
+      "PackedCRC32": 3766302786,
+      "PreviousSize": 1070890,
+      "PreviousCRC32": 2693328533
     },
     "Rects": [
       [
@@ -563,11 +565,13 @@
     "Height": 2048,
     "unique": 55,
     "Atlas": {
-      "Path": "cheatgpt/v1/kill-effect/valorant-atlas/21_2k-atlas-f6517c599281.png.lzma2",
-      "Size": 1766632,
-      "CRC32": 1590440942,
-      "PackedSize": 1766714,
-      "PackedCRC32": 2814461974
+      "Path": "cheatgpt/v1/kill-effect/valorant-atlas/21_2k-atlas-811ca5142d72.png.lzma2",
+      "Size": 1718060,
+      "CRC32": 3068275973,
+      "PackedSize": 1718142,
+      "PackedCRC32": 174572544,
+      "PreviousSize": 1766632,
+      "PreviousCRC32": 1590440942
     },
     "Rects": [
       [
@@ -1143,11 +1147,13 @@
     "Height": 2048,
     "unique": 59,
     "Atlas": {
-      "Path": "cheatgpt/v1/kill-effect/valorant-atlas/21_3k-atlas-1779bcc672dc.png.lzma2",
-      "Size": 2028388,
-      "CRC32": 3786980790,
-      "PackedSize": 2028482,
-      "PackedCRC32": 2279693040
+      "Path": "cheatgpt/v1/kill-effect/valorant-atlas/21_3k-atlas-1d43059a6e64.png.lzma2",
+      "Size": 1982656,
+      "CRC32": 3891484253,
+      "PackedSize": 1982750,
+      "PackedCRC32": 3885388355,
+      "PreviousSize": 2028388,
+      "PreviousCRC32": 3786980790
     },
     "Rects": [
       [
@@ -1723,11 +1729,13 @@
     "Height": 2048,
     "unique": 61,
     "Atlas": {
-      "Path": "cheatgpt/v1/kill-effect/valorant-atlas/21_4k-atlas-993631cd9e00.png.lzma2",
-      "Size": 2417579,
-      "CRC32": 1863320190,
-      "PackedSize": 2417691,
-      "PackedCRC32": 2686808898
+      "Path": "cheatgpt/v1/kill-effect/valorant-atlas/21_4k-atlas-83a007a17f38.png.lzma2",
+      "Size": 2379913,
+      "CRC32": 1157111053,
+      "PackedSize": 2380025,
+      "PackedCRC32": 2446078258,
+      "PreviousSize": 2417579,
+      "PreviousCRC32": 1863320190
     },
     "Rects": [
       [
@@ -2311,11 +2319,13 @@
     "Height": 4096,
     "unique": 152,
     "Atlas": {
-      "Path": "cheatgpt/v1/kill-effect/valorant-atlas/21_5k-atlas-d2daf99c1b77.png.lzma2",
-      "Size": 6485311,
-      "CRC32": 1235371555,
-      "PackedSize": 6485609,
-      "PackedCRC32": 1669346052
+      "Path": "cheatgpt/v1/kill-effect/valorant-atlas/21_5k-atlas-5c84e2d37e76.png.lzma2",
+      "Size": 6406204,
+      "CRC32": 1506816537,
+      "PackedSize": 6406499,
+      "PackedCRC32": 3829181709,
+      "PreviousSize": 6485311,
+      "PreviousCRC32": 1235371555
     },
     "Rects": [
       [
@@ -4131,11 +4141,13 @@
     "Height": 4096,
     "unique": 151,
     "Atlas": {
-      "Path": "cheatgpt/v1/kill-effect/valorant-atlas/21_6k-atlas-04cf727ff6db.png.lzma2",
-      "Size": 6577039,
-      "CRC32": 1574312433,
-      "PackedSize": 6577343,
-      "PackedCRC32": 12985690
+      "Path": "cheatgpt/v1/kill-effect/valorant-atlas/21_6k-atlas-5e57cd5295fb.png.lzma2",
+      "Size": 6464621,
+      "CRC32": 1932173093,
+      "PackedSize": 6464919,
+      "PackedCRC32": 2896745141,
+      "PreviousSize": 6577039,
+      "PreviousCRC32": 1574312433
     },
     "Rects": [
       [

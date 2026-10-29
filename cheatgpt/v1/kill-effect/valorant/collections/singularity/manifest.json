@@ -13,11 +13,13 @@
       "AtlasWidth": 1024,
       "AtlasHeight": 2048,
       "Atlas": {
-        "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/1k-atlas-9926085b6fbb.png.lzma2",
-        "Size": 1044561,
-        "CRC32": 3851406645,
-        "PackedSize": 1044610,
-        "PackedCRC32": 1330598344
+        "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/1k-atlas-88574e5aed4d.png.lzma2",
+        "Size": 930806,
+        "CRC32": 1833579601,
+        "PackedSize": 930852,
+        "PackedCRC32": 3062567556,
+        "PreviousSize": 1044561,
+        "PreviousCRC32": 3851406645
       },
       "Sound": {
         "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/1k-sound-fd1a5cf88f72.mp3.lzma2",
@@ -579,11 +581,13 @@
       "AtlasWidth": 2048,
       "AtlasHeight": 2048,
       "Atlas": {
-        "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/2k-atlas-7a8febc05544.png.lzma2",
-        "Size": 1948538,
-        "CRC32": 3204742873,
-        "PackedSize": 1948629,
-        "PackedCRC32": 3878409778
+        "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/2k-atlas-a25907076edc.png.lzma2",
+        "Size": 1884702,
+        "CRC32": 1994406045,
+        "PackedSize": 1884790,
+        "PackedCRC32": 2670673280,
+        "PreviousSize": 1948538,
+        "PreviousCRC32": 3204742873
       },
       "Sound": {
         "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/2k-sound-de627f7fe054.mp3.lzma2",
@@ -1145,11 +1149,13 @@
       "AtlasWidth": 2048,
       "AtlasHeight": 2048,
       "Atlas": {
-        "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/3k-atlas-ccddf1aebde5.png.lzma2",
-        "Size": 2151222,
-        "CRC32": 1859434182,
-        "PackedSize": 2151322,
-        "PackedCRC32": 210360915
+        "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/3k-atlas-f44e9b3d8ae8.png.lzma2",
+        "Size": 2108955,
+        "CRC32": 3047358181,
+        "PackedSize": 2109055,
+        "PackedCRC32": 872712878,
+        "PreviousSize": 2151222,
+        "PreviousCRC32": 1859434182
       },
       "Sound": {
         "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/3k-sound-7aae6a7ce6af.mp3.lzma2",
@@ -1719,11 +1725,13 @@
       "AtlasWidth": 2048,
       "AtlasHeight": 2048,
       "Atlas": {
-        "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/4k-atlas-35e15dfba8b0.png.lzma2",
-        "Size": 2308123,
-        "CRC32": 3373792372,
-        "PackedSize": 2308232,
-        "PackedCRC32": 2562259528
+        "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/4k-atlas-29abe4422efd.png.lzma2",
+        "Size": 2270581,
+        "CRC32": 322206313,
+        "PackedSize": 2270687,
+        "PackedCRC32": 367767680,
+        "PreviousSize": 2308123,
+        "PreviousCRC32": 3373792372
       },
       "Sound": {
         "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/4k-sound-a006a0e4e539.mp3.lzma2",
@@ -2285,11 +2293,13 @@
       "AtlasWidth": 2560,
       "AtlasHeight": 4096,
       "Atlas": {
-        "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/5k-atlas-b7500517cea1.png.lzma2",
-        "Size": 7035098,
-        "CRC32": 1649455659,
-        "PackedSize": 7035423,
-        "PackedCRC32": 1018367638
+        "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/5k-atlas-c65ac6ac560f.png.lzma2",
+        "Size": 6860054,
+        "CRC32": 16370639,
+        "PackedSize": 6860370,
+        "PackedCRC32": 1564678262,
+        "PreviousSize": 7035098,
+        "PreviousCRC32": 1649455659
       },
       "Sound": {
         "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/5k-sound-ed81288ec7ca.mp3.lzma2",
@@ -4123,11 +4133,13 @@
       "AtlasWidth": 2560,
       "AtlasHeight": 4096,
       "Atlas": {
-        "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/6k-atlas-5f3e7f8c233d.png.lzma2",
-        "Size": 7361400,
-        "CRC32": 875019072,
-        "PackedSize": 7361740,
-        "PackedCRC32": 3109128353
+        "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/6k-atlas-a12c55e57bb5.png.lzma2",
+        "Size": 7249086,
+        "CRC32": 2996527057,
+        "PackedSize": 7249420,
+        "PackedCRC32": 3719474051,
+        "PreviousSize": 7361400,
+        "PreviousCRC32": 875019072
       },
       "Sound": {
         "Path": "cheatgpt/v1/kill-effect/valorant/collections/singularity/6k-sound-b33f1a7950d7.mp3.lzma2",
